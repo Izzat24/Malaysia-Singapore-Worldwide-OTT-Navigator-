@@ -206,7 +206,7 @@ https://refresh.cikgusuraya.workers.dev/?channel_id=1000
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Astroxx",WARNA HD
-http://abcnew.site:8880/live/29ca10293n08/asdfr34f34/1706.m3u8
+https://ktpremium.com:443/live/mtmt3553/yrbd0op0/912836.m3u8
   
 #EXTINF:-1 tvg-id="Rania" group-title="Indonesia Exclusive" ch-number="112" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Rania (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -487,7 +487,7 @@ https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Movies",Citra HD
-https://ktpremium.com:443/live/K3154/8924/913177.m3u8
+https://ktpremium.com:443/live/mtmt3553/yrbd0op0/913177.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"}
