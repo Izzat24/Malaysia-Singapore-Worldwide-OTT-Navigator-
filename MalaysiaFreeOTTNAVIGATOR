@@ -865,10 +865,13 @@ https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5093/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
-#EXTINF:-1 tvg-id="NickEast.us" tvg-logo="https://i.postimg.cc/1zSChyBm/download-2023-12-28-T081807-881.png" group-title="Kids",Nickelodeon East
+#EXTINF:-1 tvg-id="NickEast.us" tvg-logo="https://i.postimg.cc/1zSChyBm/download-2023-12-28-T081807-881.png" group-title="Kids",Nickelodeon East (A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
 https://webudit.webhd.ru/lb/premium330/index.m3u8
+
+#EXTINF:-1 tvg-id="NickEast.us" tvg-logo="https://i.postimg.cc/1zSChyBm/download-2023-12-28-T081807-881.png" group-title="Kids",Nickelodeon East (B)
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479229&extension=ts
 
 #EXTINF:-1 tvg-id="Nick" tvg-name="Nick" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/8zzc6vLq/download-2023-06-02-T005103-542.jpg" group-title="Kids",Pluto TV (Nick)
 https://i.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
