@@ -801,6 +801,12 @@ https://webudit.webhd.ru/lb/premium328/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=281340&extension=ts
 
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Knowledge",Al Jazeera Documentary (270p) [Geo-blocked]
+http://95.216.180.111:1935/live/111/chunklist_w155690980.m3u8
+
+#EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/TRQ0lLh.png" group-title="Knowledge" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",RT Documentary Russian (480p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+
 #EXTINF:-1 tvg-id="Digital ceria" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" ch-number="611",Digital Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
@@ -1426,6 +1432,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="indo.id" group-title="🇮🇩Indonesia🇮🇩" tvg-logo="https://telegra.ph/file/f4717dc3af0ced8592ad1.png",Dunia Lain
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="🇮🇩Indonesia🇮🇩",Nusantara TV (720p)
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="Sports Campuran" tvg-logo="https://i.postimg.cc/G2M5LGds/download-21.png",TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
@@ -2946,21 +2955,6 @@ https://h1.intechmedia.net/intech/ch59.m3u8
 #EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="Religion",tvMu (720p)
 https://tvmu.siar.us/tvmu/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="🇮🇩Indonesia🇮🇩",Nusantara TV (720p)
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Knowledge",Al Jazeera Documentary (270p) [Geo-blocked]
-http://95.216.180.111:1935/live/111/chunklist_w155690980.m3u8
-
-#EXTINF:-1 tvg-id="historyhd" group-title="Knowledge" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD (K+ Feed)
-http://vthanhtivi.pw:5000/history/index.m3u8
-
-#EXTINF:-1 tvg-id="ngchd" group-title="Knowledge" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", National Geographic HD (K+ Feed)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-http://vthanhtivi.pw:5000/natgeo/index.m3u8
-
-#EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/TRQ0lLh.png" group-title="Knowledge" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",RT Documentary Russian (480p) [Geo-blocked]
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="👗Fashion Campuran👗" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV (B)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3000,34 +2994,6 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 
 #EXTINF:-1 channel-id="pluto-5ca671f215a62078d2ec0abf" tvg-id="5ca671f215a62078d2ec0abf" tvg-chno="1210" tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="Funny/Laughter" , Comedy Central Pluto TV
 https://i.mjh.nz/PlutoTV/5ca671f215a62078d2ec0abf-alt.m3u8
-
-#EXTINF:-1 tvg-id="ZhejiangSatelliteTVInternational.cn" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="🇨🇳China Province🇨🇳",Zhejiang TV International 
-https://epg.pw/stream/a168d5ee9a5535ed5d363fe5b921fc96b8e59faeb98d0a1780505ad1384b0a00.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://i.imgur.com/eTi8T0z.png",Dragon TV International (A)
-http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest?cb=20220210080936",Dragon TV International (B)
-https://mangga-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-
-#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://parco-zh.github.io/demo/HNWS.png",Hunan TV (A)
-https://ctrl.laotv.la/live/Hunan/index.m3u8
-
-#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://parco-zh.github.io/demo/HNWS.png",Hunan TV (B)
-https://epg.pw/stream/8109af647f56702f17e3fbffe6ca2766a6364dcaf3078e086513d7b6ed02b365.m3u8
-
-#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://i.imgur.com/SLuM875.png",Jiangsu TV
-http://103.45.68.47:666/gy/gy221/xsj.php?id=jiangsu
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
-https://mangga-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTINF:-1 channel-id="DouyuMovies" tvg-id="DouyuMovies" tvg-chno="1210" tvg-logo="https://i.postimg.cc/BnT204Q6/download-41.png" group-title="Douyu Movies",Douyu Movies 24/7 
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
@@ -4840,3 +4806,33 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705100&exten
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705099&extension=ts
+
+#EXTINF:-1 tvg-id="ZhejiangSatelliteTVInternational.cn" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="🇨🇳China Province🇨🇳",Zhejiang TV International 
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://i.imgur.com/eTi8T0z.png",Dragon TV International (A)
+http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest?cb=20220210080936",Dragon TV International (B)
+https://mangga-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://parco-zh.github.io/demo/HNWS.png",Hunan TV (A)
+https://ctrl.laotv.la/live/Hunan/index.m3u8
+
+#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://parco-zh.github.io/demo/HNWS.png",Hunan TV (B)
+https://epg.pw/stream/8109af647f56702f17e3fbffe6ca2766a6364dcaf3078e086513d7b6ed02b365.m3u8
+
+#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://i.imgur.com/SLuM875.png",Jiangsu TV
+http://103.45.68.47:666/gy/gy221/xsj.php?id=jiangsu
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
+https://mangga-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="usee", Shenzen
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
