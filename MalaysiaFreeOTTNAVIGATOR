@@ -4834,5 +4834,5 @@ http://103.45.68.47:666/gy/gy221/xsj.php?id=jiangsu
 #EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
 https://mangga-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="usee", Shenzen
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="🇨🇳China Province🇨🇳", Shenzen
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
