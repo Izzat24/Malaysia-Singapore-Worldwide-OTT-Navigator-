@@ -4795,3 +4795,48 @@ https://stream.hownetwork.xyz/xxx/expend4bles-2023-bluray_X_3c050818/18/480.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="##### HBO MAX NETWORK  #####" group-title="HBO MAX ORIGINALS",##### HBO MAX NETWORK  #####
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705107&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[EN] HBO MAX F&F 4K" group-title="HBO MAX ORIGINALS",[EN] HBO MAX F&F 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705106&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[EN] HBO MAX 1 4K" group-title="HBO MAX ORIGINALS",[EN] HBO MAX 1 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705105&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[EN] HBO MAX 2 4K" group-title="HBO MAX ORIGINALS",[EN] HBO MAX 2 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705104&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[EN] HBO MAX 3 4K" group-title="HBO MAX ORIGINALS",[EN] HBO MAX 3 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705103&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[EN] HBO MAX 4 4K" group-title="HBO MAX ORIGINALS",[EN] HBO MAX 4 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705102&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[EN] HBO MAX 5 4K" group-title="HBO MAX ORIGINALS",[EN] HBO MAX 5 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705101&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[EN] HBO MAX 6 4K" group-title="HBO MAX ORIGINALS",[EN] HBO MAX 6 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705100&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[EN] HBO MAX 7 4K" group-title="HBO MAX ORIGINALS",[EN] HBO MAX 7 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705099&extension=ts
