@@ -4836,3 +4836,6 @@ https://mangga-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="🇨🇳China Province🇨🇳", Shenzen
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+
+#EXTINF:-1, tvg-id="THE ROUNDUP: NO WAY OUT (2023)" tvg-name="THE ROUNDUP: NO WAY OUT (2023)" tvg-logo="https://i.postimg.cc/4NDbjJ3D/film-the-roundup-no-way-out-2023-lk21-d21-jpg.jpg" group-title="Koreans Movies",THE ROUNDUP: NO WAY OUT (2023)
+https://stream.hownetwork.xyz/xxx/the-roundup-no-way-out-2023-bluray_X_fe76a6e0/19/480.m3u8|Referer=https=stream.hownetwork.xyz 
