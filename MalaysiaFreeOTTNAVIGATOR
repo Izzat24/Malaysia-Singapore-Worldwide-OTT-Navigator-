@@ -1354,7 +1354,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.postimg.cc/tCSB1v0R/download-98.jpg" group-logo="https://i.postimg.cc/65f9dq31/download-2023-06-30-T115615-283.jpg" group-title="🇮🇩Indonesia🇮🇩",VTV Indonesia 
-http://175.158.62.142:8888/stream/channelid/1035439605?ticket=345FA844C3B04DA232C0934FCEF3D231F04E2AC3&profile=pass
+https://playlist-coffee.my.id/oxy/vtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
