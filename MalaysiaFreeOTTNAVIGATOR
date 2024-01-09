@@ -893,7 +893,7 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 
 
 #EXTINF:-1 group-title="Kids" tvg-id="KIDSSTATION.JP" tvg-logo="https://i.postimg.cc/zf1FvxsY/download-22.png" ,Kids Station Japan 
-http://104.194.239.2:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
