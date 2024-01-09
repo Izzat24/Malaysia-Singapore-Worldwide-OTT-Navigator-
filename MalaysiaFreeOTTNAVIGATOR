@@ -553,6 +553,10 @@ http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family +1 HD" group-title="Movies" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png",414 HBO FAMILY
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family +1 HD" group-title="Movies" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png",414 HBO FAMILY (B)
+http://newlife3.wanicelife.com:8880/29us041803/asdfwe332/1707?play_token=qZDKoCSCLS
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
