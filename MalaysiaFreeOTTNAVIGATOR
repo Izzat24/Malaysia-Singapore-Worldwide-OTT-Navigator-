@@ -4717,6 +4717,101 @@ https://mangga-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="🇨🇳China Province🇨🇳", Shenzen TV 
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 
-
 #EXTINF:-1, tvg-id="THE ROUNDUP: NO WAY OUT (2023)" tvg-name="THE ROUNDUP: NO WAY OUT (2023)" tvg-logo="https://i.postimg.cc/4NDbjJ3D/film-the-roundup-no-way-out-2023-lk21-d21-jpg.jpg" group-title="Korean Movies",THE ROUNDUP: NO WAY OUT (2023)
 https://stream.hownetwork.xyz/xxx/the-roundup-no-way-out-2023-bluray_X_fe76a6e0/19/480.m3u8|Referer=https=stream.hownetwork.xyz 
+
+#EXTINF:-1 tvg-id="TegarTVJogja.id" tvg-logo="https://i.imgur.com/XamnylQ.png" group-title="TV DAERAH",Tegar TV Jogja (720p)
+http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="TV DAERAH",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SangajiTV.id" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="TV DAERAH",Sangaji TV (720p) [Not 24/7]
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 tvg-id="SemarangTV.id" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="TV DAERAH",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="TV DAERAH",Sakti TV (720p)
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RRINet.id" tvg-logo="https://i.imgur.com/4mWKUf4.png" group-title="TV DAERAH",RRI Net (1080p)
+https://rrinet.rri.co.id/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="RiauTV.id" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="TV DAERAH",Riau TV (576p) [Not 24/7]
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="TV DAERAH",Radar Tasikmalaya TV (720p) [Not 24/7]
+http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="TV DAERAH",Puja TV Aceh (1080p) [Not 24/7]
+https://v6.siar.us/pujatv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PalembangTV.id" tvg-logo="https://i.imgur.com/e2F1zyU.png" group-title="TV DAERAH",Pal TV (720p) [Not 24/7]
+https://v3.siar.us/paltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Religion",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="TV DAERAH",Madu TV (576p)
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="TV DAERAH",Magna Channel (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="TV DAERAH",Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="TV DAERAH",Jogja TV (720p) [Not 24/7]
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="JekTV.id" tvg-logo="https://i.imgur.com/wh75d1f.png" group-title="TV DAERAH",Jek TV (720p) [Not 24/7]
+http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="TV DAERAH",Jawa Pos TV (720p) [Not 24/7]
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="TV DAERAH",Inspira TV (720p) [Not 24/7]
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://i.imgur.com/192wiS1.png" group-title="TV DAERAH",Indonesiana.TV (720p)
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+
+#EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="TV DAERAH",Huma Betang TV (720p) [Not 24/7]
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="TV DAERAH",Garuda TV (1080p)
+http://stream.garuda.tv/live/garudatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GPRTV.id" tvg-logo="https://i.imgur.com/mYHiCJu.png" group-title="TV DAERAH",GPR TV (720p)
+https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DutaTV.id" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="TV DAERAH",Duta TV (360p) [Not 24/7]
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="TV DAERAH",Dhoho TV (720p)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BungoTV.id" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="TV DAERAH",Bungo TV (480p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BRTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="TV DAERAH",BRTV (1080p) [Not 24/7]
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BatuTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="TV DAERAH",Batu TV (576p) [Not 24/7]
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/pRyaqIi.png" group-title="TV DAERAH",Banyumas TV (720p) [Geo-blocked]
+https://v2.siar.us/bmstv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="Undefined",Banten TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="TV DAERAH",Balikapan TV (720p)
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FicomChannel.id" tvg-logo="https://i.ibb.co/nqX0CBx/f-1.png" group-title="🇮🇩Indonesia🇮🇩",Ficom Channel (720p)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="Kids",My Kidz (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h191/index.m3u8
