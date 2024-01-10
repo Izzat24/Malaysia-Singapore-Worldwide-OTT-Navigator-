@@ -84,8 +84,8 @@ https://stream.smg.my/live/tvs.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="🇲🇾Myfreeview🇲🇾",Awesome TV 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+#EXTINF:-1 tvg-id="123" ch-number="123" tvg-name="Awesome TV" group-title="🇲🇾Myfreeview🇲🇾" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",123 Awesome TV 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png", group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png"  group-title="🇲🇾Myfreeview🇲🇾",Selangor TV
 #EXTVLCOPT:network-caching=1000
@@ -187,11 +187,8 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://refresh.cikgusuraya.workers.dev/?channel_id=1004
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima (Test Temporary)
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://refresh.cikgusuraya.workers.dev/?channel_id=1000
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima (Test)u
+http://myteve.online:8080/34223073/2cdb1b8d70/157467
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
@@ -543,9 +540,8 @@ http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family +1 HD" group-title="Movies" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png",414 HBO FAMILY
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family +1 HD" group-title="Movies" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png",414 HBO FAMILY (A)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
-
 
 #EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family +1 HD" group-title="Movies" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png",414 HBO FAMILY (B)
 http://newlife3.wanicelife.com:8880/29us041803/asdfwe332/1707?play_token=qZDKoCSCLS
@@ -870,12 +866,6 @@ https://webudit.webhd.ru/lb/premium330/index.m3u8
 #EXTINF:-1 tvg-id="NickEast.us" tvg-logo="https://i.postimg.cc/1zSChyBm/download-2023-12-28-T081807-881.png" group-title="Kids",Nickelodeon East (B)
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479229&extension=ts
 
-#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/8zzc6vLq/download-2023-06-02-T005103-542.jpg" group-title="Kids",Pluto TV (Nick)
-https://i.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
-
-#EXTINF:-1 tvg-id="NickJr" tvg-name="NickJr" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/gcy3yv6J/download-2023-06-02-T005114-380.png" group-title="Kids",Pluto TV (NickJr)
-https://i.mjh.nz/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
-
 #EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/SNC2C2tR/download-2023-03-17-T214110-590.jpg", group-title="Kids", Toonami AfterMath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
@@ -975,18 +965,6 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XtremaNime" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/V6yxh1SB/download-2023-06-02-T012400-177.jpg" group-title="Kids",Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-
-#EXTINF:- 1 tvg-id="PlutoTv:AllDays" tvg-name="PlutoTV:AllDays" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/Mpn1Hb64/download-2023-06-02-T110056-776.jpg" group-title="Kids",PlutoTV All Days
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=05592fc6-fe6b-46ff-670a-a99cc470aac6&deviceDNT=0&deviceModel=0&already_redirected=true
-
-#EXTINF:- 1 tvg-id="PlutoTv:AllAges" tvg-name="PlutoTV:AllAges" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/RhbNxyH0/download-2023-06-02-T110133-988.jpg" group-title="Kids",PlutoTV All Ages
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=74384095-3ffe-89fa-8c32-e91f57587e84&deviceDNT=0&deviceModel=0&already_redirected=true
-
-#EXTINF:- 1 tvg-id="PlutoTv:InazumaElevenGo" tvg-name="PlutoTV:InazumaElevenGo" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/FKJYLRyW/download-2023-07-12-T002045-419.jpg" group-title="Kids",PlutoTV:Inazuma Eleven Go (English Dubbed 24/7)
-https://i.mjh.nz/PlutoTV/1646cc23ae94c3800082f6793-alt.m3u8
-
-#EXTINF:- 1 tvg-id="PlutoTv:InazumaEleven" tvg-name="PlutoTV:InazumaEleven" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/Bt90RSL6/download-2023-07-12-T002748-026.jpg" group-title="Kids",PlutoTV:Inazuma Eleven (English Dubbed 24/7)
-https://i.mjh.nz/PlutoTV/1646cc49681844c000974af84-alt.m3u8
 
 #EXTINF:-1 tvg-id="UrbanKids" tvg-logo="" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids",Urban Kids 
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
@@ -1518,7 +1496,7 @@ http://210.210.155.37/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="Movies" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="19" tvg-logo="https://i.postimg.cc/V6qgKWKC/download-62.jpg",Thrill
 https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+  #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nUO8xR83UFUNMhzcN+V8yQ", "kid":"BAPmVN2rQZ22zHK7P6USSA" } ], "type":"temporary" }
@@ -1680,33 +1658,6 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-5d4af2a24f1c5ab2d298776b" tvg-id="5d4af2a24f1c5ab2d298776b" tvg-chno="850" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="Music Campuran" , Pluto TV Music
-https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-635bfb89b5cd9b0007ca9d63" tvg-id="635bfb89b5cd9b0007ca9d63" tvg-chno="851" tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="Music Campuran" , MTV Classic
-https://i.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62a067e7c65ff60007b40874" tvg-id="62a067e7c65ff60007b40874" tvg-chno="852" tvg-logo="https://images.pluto.tv/channels/62a067e7c65ff60007b40874/colorLogoPNG.png" group-title="Music Campuran" , MTV Movie Hits
-https://i.mjh.nz/PlutoTV/62a067e7c65ff60007b40874-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62430270d6394a0007ef24a6" tvg-id="62430270d6394a0007ef24a6" tvg-chno="853" tvg-logo="https://images.pluto.tv/channels/62430270d6394a0007ef24a6/colorLogoPNG.png" group-title="Music Campuran" , MTV Love
-https://i.mjh.nz/PlutoTV/62430270d6394a0007ef24a6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62ac44b44f1912000705274c" tvg-id="62ac44b44f1912000705274c" tvg-chno="854" tvg-logo="https://images.pluto.tv/channels/62ac44b44f1912000705274c/colorLogoPNG.png" group-title="Music Campuran" , MTV Queens of Pop
-https://i.mjh.nz/PlutoTV/62ac44b44f1912000705274c-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61560abb6ae4b60007300555" tvg-id="61560abb6ae4b60007300555" tvg-chno="855" tvg-logo="https://images.pluto.tv/channels/61560abb6ae4b60007300555/colorLogoPNG.png" group-title="Music Campuran" , Pluto TV K-Pop
-https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-624303598e45140007d765c1" tvg-id="624303598e45140007d765c1" tvg-chno="856" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" group-title="Music Campuran" , MTV Rocks
-https://i.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6304fa03ace49200079456fd" tvg-id="6304fa03ace49200079456fd" tvg-chno="849" tvg-logo="https://images.pluto.tv/channels/6304fa03ace49200079456fd/colorLogoPNG.png" group-title="Music Campuran" , MTV Pride
-https://i.mjh.nz/PlutoTV/6304fa03ace49200079456fd-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-608035b8d8705f0007260287" tvg-id="608035b8d8705f0007260287" tvg-chno="804" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="Kids", Pluto TV Anime
-https://i.mjh.nz/PlutoTV/646cc4df7cb4b100087a5cfb-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-chno="2485" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Music Campuran" , Vevo '70s
 https://i.mjh.nz/SamsungTVPlus/CABC5200010G2.m3u8
 
@@ -1725,14 +1676,8 @@ https://i.mjh.nz/SamsungTVPlus/FRBD1900013CB.m3u8
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-chno="2500" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music Campuran" , Vevo 2K
 https://i.mjh.nz/SamsungTVPlus/CABC5200013DN.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f68f53eb1e5800007390bf8" tvg-id="5f68f53eb1e5800007390bf8"Ã¯Â¿Â½ tvg-chno="2505" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Music Campuran" , CMT Equal Play
-https://i.mjh.nz/PlutoTV/15f68f53eb1e5800007390bf8-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-chno="2515" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Music Campuran" , Vevo Country
 https://i.mjh.nz/SamsungTVPlus/CABC52000165E.m3u8
-
-#EXTINF:-1 channel-id="pluto-61d4c2817a823d00070ba53e" tvg-id="61d4c2817a823d00070ba53e" tvg-chno="2525" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Music Campuran" , Vevo True School Hip-Hop
-https://i.mjh.nz/PlutoTV/161d4c2817a823d00070ba53e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d83f66c9700009b96d0e" tvg-id="5da0d83f66c9700009b96d0e" tvg-chno="2530" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Music Campuran" , Vevo R&B
 https://i.mjh.nz/SamsungTVPlus/CABC5200015Q1.m3u8
@@ -1746,35 +1691,15 @@ https://i.mjh.nz/SamsungTVPlus/DEBD3000002SI.m3u8
 #EXTINF:-1 channel-id="pluto-5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-chno="2545" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music Campuran" , Vevo Pop
 https://i.mjh.nz/SamsungTVPlus/ESBC2100001IU.m3u8
 
-#EXTINF:-1 channel-id="pluto-5d14fdb8ca91eedee1633117" tvg-id="5d14fdb8ca91eedee1633117" tvg-chno="2550" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music Campuran" , MTV Spankin' New
-https://i.mjh.nz/PlutoTV/16047ff2e5e61cf000784e4da-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-chno="2555" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music Campuran" , MTV Biggest Pop
-https://i.mjh.nz/PlutoTV/16047fbdbbb776a0007e7f2ff-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5d3609cd6a6c78d7672f2a81" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-chno="2560" tvg-logo="https://i.postimg.cc/5y6gnRRX/download-74.jpg" group-title="Music Campuran" , MTV Party Music
-https://i.mjh.nz/PlutoTV/161ea759737679900078ff559-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d64d0e8a62000964ebe4" tvg-id="5da0d64d0e8a62000964ebe4" tvg-chno="2575" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="Music Campuran" , Vevo Latino
 https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f32f397795b750007706448" tvg-id="5f32f397795b750007706448" tvg-chno="2580" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Music Campuran" , Vevo Reggaeton & Trap
-https://i.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
-
-#EXTINF:-1 tvg-id="GBBD2300001C0" tvg-chno="4712" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20230712T021205SQUARE.png_20230712021205.png" group-title="Music Campuran" , Vevo Hip Hop & R&B
-https://i.mjh.nz/PlutoTV/15d51ddf0369acdb278dfb05e-alt.m3u8
 
 #EXTINF:-1 tvg-id="CABC52000171D" tvg-chno="1510" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000171D_20230321T235509SQUARE.png_20230321235509.png" group-title="Music Campuran" , Vevo Hip-Hop
 https://dza79yqbrbr58.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ffmt5607f6tvw/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="USBD120002431" tvg-chno="1524" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" group-title="Music Campuran" , Vevo 2010s
 https://i.mjh.nz/SamsungTVPlus/CABD1200009SD.m3u8
-
-#EXTINF:-1 channel-id="pluto-5873fc21cad696fb37aa9054" tvg-id="5873fc21cad696fb37aa9054" tvg-chno="2480" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Music Campuran" , Live Music Replay
-https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-623b92a2ccefed0007b1db48" tvg-id="623b92a2ccefed0007b1db48" tvg-chno="2510" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music Campuran" , XITE Classic Country
-https://i.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8
 
 #EXTINF:-1 tvg-id="CABB2600017ZU" tvg-chno="1501" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20220525T021952SQUARE.png_20220525021952.png" group-title="Music Campuran" , XITE 80s Flashback
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -1818,20 +1743,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
 #EXTINF:-1 channel-id="pluto-5ad8d883e738977e2c31096b" tvg-id="5ad8d883e738977e2c31096b" tvg-chno="260" tvg-logo="https://images.pluto.tv/channels/5ad8d883e738977e2c31096b/colorLogoPNG.png" group-title="Funny/Laughter" , FailArmy
 https://i.mjh.nz/SamsungTVPlus/ATAJ32000027V.m3u8
 
-#EXTINF:-1 channel-id="pluto-60f86f539f03cd00070c503a" tvg-id="60f86f539f03cd00070c503a" tvg-chno="1250" tvg-logo="https://images.pluto.tv/channels/60f86f539f03cd00070c503a/colorLogoPNG.png" group-title="Funny/Laughter" , Pluto TV Pranks
-https://i.mjh.nz/PlutoTV/60f86f539f03cd00070c503a-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5e82b55ad0213e00079c509f" tvg-id="5e82b55ad0213e00079c509f" tvg-chno="1255" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="Funny/Laughter" , Always Funny Videos
 https://i.mjh.nz/SamsungTVPlus/CABA3700001DB.m3u8
 
-#EXTINF:-1 channel-id="pluto-5da0c85bd2c9c10009370984" tvg-id="5da0c85bd2c9c10009370984" tvg-chno="2380" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Kids", Naruto
-https://i.mjh.nz/PlutoTV/15da0c85bd2c9c10009370984-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60f9ebb06f0b3d000746fbdb" tvg-id="60f9ebb06f0b3d000746fbdb" tvg-chno="3200" tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png" group-title="Kids", Team Spirit
-https://i.mjh.nz/PlutoTV/160f9ebb06f0b3d000746fbdb-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63f87c73085b8c0008fc8e95" tvg-id="63f87c73085b8c0008fc8e95" tvg-chno="932" tvg-logo="https://images.pluto.tv/channels/63f87c73085b8c0008fc8e95/colorLogoPNG.png" group-title="Kids", Yu-Gi-Oh!
-https://i.mjh.nz/PlutoTV/15f4ec10ed9636f00089b8c89-alt.m3u8
 
 #EXTINF:-1 tvg-id="GBBD1100010UB" tvg-chno="4621" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png" group-title="Kids" , Super Anime
 https://c5645f7013df454d8680e321ced27f02.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_SuperAnime/playlist.m3u8?ads.wurl_channel=1416&ads.wurl_name=SuperAnime&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -1886,9 +1800,6 @@ http://195.26.87.217/live?channelId=274&deviceMac=00:1A:79:33:E9:41
 
 #EXTINF:-1 tvg-id="TenSports" tvg-logo="https://i.postimg.cc/C1JHYSrZ/download-20.jpg" group-title="Sports Campuran",Ten Sports 
 http://195.26.87.217/live?channelId=301&deviceMac=00:1A:79:33:E9:41
-
-#EXTINF:-1 channel-id="pluto-5c3f8f12a93c2d61b9990a4e" tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-chno="2430" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="Kids", TokuSHOUTsu
-https://i.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
 
 #EXTINF:-1 channel-id="AfroSports" tvg-name="AfroSports" tvg-logo="https://i.postimg.cc/Fs1Mr1NX/download-26.png" group-title="Sports Campuran", AfroSports
 https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
@@ -2155,12 +2066,6 @@ http://kuchini.site:8080/live/linuxapp2021/zdFTTQCKXWq84YWF/298867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="nova.cz" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2641.png" group-title="Sports Campuran",Nova Sport 4 Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 http://kuchini.site:8080/live/linuxapp2021/zdFTTQCKXWq84YWF/298866.m3u8
-
-  #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="XingKongTV.Id" tvg-logo="https://cdn.ksa.my.id/xingxong.png" group-title="🇨🇳China Province🇨🇳 ",Xingkong TV
-https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd|referer=https://www.visionplus.id
-
 
 #EXTINF:-1 group-title="Arabic Local" tvg-id="arriadia3.mr" tvg-logo="https://i.postimg.cc/sxVnMDWq/download-80.png",Arradia 3
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
@@ -2685,45 +2590,6 @@ http://183.89.246.119:8881/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="YTV.mm" tvg-logo="https://i.imgur.com/uqrXcWB.png" group-title="🇲🇲Myanmar🇲🇲",YTV (480p)
 http://183.89.246.119:8881/play/a081/index.m3u8
 
-#EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-chno="51" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="PlutoTV:Movies" , Pluto TV Spotlight
-https://i.mjh.nz/PlutoTV/15ba3fb9c4b078e0f37ad34e8-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-561d7d484dc7c8770484914a" tvg-id="561d7d484dc7c8770484914a" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="PlutoTV:Movies" , Pluto TV Action
-https://i.mjh.nz/PlutoTV/161c095861782bd000780e0ba-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-617b37b361e0fd0008cfd8c5" tvg-id="617b37b361e0fd0008cfd8c5" tvg-chno="61" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="PlutoTV:Movies" , Pluto TV Reaction
-https://i.mjh.nz/PlutoTV/1617b37b361e0fd0008cfd8c5-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5a4d3a00ad95e4718ae8d8db" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-chno="66" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG-1630516100243.png" group-title="PlutoTV:Movies" , Pluto TV Comedy
-https://i.mjh.nz/PlutoTV/162e92178946c8000079a3160-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5b4e92e4694c027be6ecece1" tvg-id="5b4e92e4694c027be6ecece1" tvg-chno="71" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="PlutoTV:Movies" , Pluto TV Drama
-https://i.mjh.nz/PlutoTV/15b4e92e4694c027be6ecece1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5b64a245a202b3337f09e51d" tvg-id="5b64a245a202b3337f09e51d" tvg-chno="76" tvg-logo="https://i.postimg.cc/htrQvpyZ/color-Logo-PNG.png" group-title="PlutoTV:Movies" , Pluto TV Fantastic
-https://i.mjh.nz/PlutoTV/15b64a245a202b3337f09e51d-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5a66795ef91fef2c7031c599" tvg-id="5a66795ef91fef2c7031c599" tvg-chno="81" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="PlutoTV:Movies" , Pluto TV Romance
-https://i.mjh.nz/PlutoTV/15dc287ce3086a20009f5024c-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f4d8594eb979c0007706de7" tvg-id="5f4d8594eb979c0007706de7" tvg-chno="86" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="PlutoTV:Movies" , Pluto TV Crime Movies
-https://i.mjh.nz/PlutoTV/15f4d8594eb979c0007706de7-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5b4e69e08291147bd04a9fd7" tvg-id="5b4e69e08291147bd04a9fd7" tvg-chno="91" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="PlutoTV:Movies" , Pluto TV Thrillers
-https://i.mjh.nz/PlutoTV/160c3472a51a2050008dad272-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-569546031a619b8f07ce6e25" tvg-id="569546031a619b8f07ce6e25" tvg-chno="96" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="PlutoTV:Movies" , Pluto TV Horror
-https://i.mjh.nz/PlutoTV/162ea3f8a38acc80007072d26-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5c6dc88fcd232425a6e0f06e" tvg-id="5c6dc88fcd232425a6e0f06e" tvg-chno="101" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="PlutoTV:Movies" , Pluto TV Terror
-https://i.mjh.nz/PlutoTV/15c6dc88fcd232425a6e0f06e-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-58af4c093a41ca9d4ecabe96" tvg-id="58af4c093a41ca9d4ecabe96" tvg-chno="106" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="PlutoTV:Movies" , Black Cinema
-https://i.mjh.nz/PlutoTV/158af4c093a41ca9d4ecabe96-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" group-title="PlutoTV:Movies" , MovieSphere by Lionsgate
-https://i.mjh.nz/PlutoTV/164a3d96f060e830008af6745-alt.m3u8
-
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religion" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV (360p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch4.m3u8
@@ -2963,7 +2829,6 @@ https://h1.intechmedia.net/intech/ch59.m3u8
 
 #EXTINF:-1 tvg-id="TVMu.id" tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="Religion",tvMu (720p)
 https://tvmu.siar.us/tvmu/live/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="👗Fashion Campuran👗" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV (B)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3280,9 +3145,6 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports Campuran",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 channel-id="pluto-61560abb6ae4b60007300555" tvg-id="61560abb6ae4b60007300555" tvg-chno="855" tvg-logo="https://images.pluto.tv/channels/61560abb6ae4b60007300555/colorLogoPNG.png" group-title="Music Campuran" , Pluto TV K-Pop
-https://i.mjh.nz/PlutoTV/1637cde3788399a0007593049-alt.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="Knowledge" tvg-logo="https://i.ibb.co/3SRxHXv/BBC-Earth.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth (Vietnam Feed)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4479,7 +4341,7 @@ https://webudit.hlsjs.ru/lb/premium52/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://webudit.hlsjs.ru/lb/premium53/index.m3u8 
 
-#EXTINF:-1 group-title="🇺🇸USA LOCAL🇺🇸" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-id="foxeast.us" tvg-logo="https://i.imgur.com/hvKVSB6.png",FOX 5
+#EXTINF:-1 group-title="🇺🇸USA LOCAL🇺🇸" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-id="foxeast.us" tvg-logo="https://i.imgur.com/hvKVSB6.png",FOX 5 (Dadylive Feed)
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://webudit.hlsjs.ru/lb/premium768/index.m3u8
@@ -4502,10 +4364,13 @@ https://webudit.hlsjs.ru/lb/premium338/index.m3u8
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNTV-KCWX_Custom_Logo_7-3.png" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA LOCAL🇺🇸",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KVCW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNGfTfTaGhGaOHQrMUc3F-LylC4FHC5vztQ&s" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA LOCAL🇺🇸",The CW Las Vegas (KVCW-TV)
+#EXTINF:-1 tvg-id="KVCW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNGfTfTaGhGaOHQrMUc3F-LylC4FHC5vztQ&s" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA LOCAL🇺🇸",The CW Las Vegas (KVCW-TV) (Dadylive Feed)
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium300/index.m3u8
+
+#EXTINF:-1 tvg-id="KVCW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNGfTfTaGhGaOHQrMUc3F-LylC4FHC5vztQ&s" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA LOCAL🇺🇸",The CW Las Vegas (KVCW-TV) (Backup)
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=551448&extension=ts
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="bravotv.us" tvg-logo="https://i.postimg.cc/8C3gBD9j/download-2024-01-01-T083050-395.png",Bravo TV US
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
@@ -4816,8 +4681,14 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705100&exten
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=705099&extension=ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="XingKongTV.Id" tvg-logo="https://cdn.ksa.my.id/xingxong.png" group-title="🇨🇳China Province🇨🇳 ",Xingkong TV
+https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd|referer=https://www.visionplus.id
+
 #EXTINF:-1 tvg-id="ZhejiangSatelliteTVInternational.cn" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="🇨🇳China Province🇨🇳",Zhejiang TV International 
 https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -4843,8 +4714,9 @@ http://103.45.68.47:666/gy/gy221/xsj.php?id=jiangsu
 #EXTINF:-1 group-title="🇨🇳China Province🇨🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",Anhui TV
 https://mangga-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="🇨🇳China Province🇨🇳", Shenzen
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="🇨🇳China Province🇨🇳", Shenzen TV 
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 
-#EXTINF:-1, tvg-id="THE ROUNDUP: NO WAY OUT (2023)" tvg-name="THE ROUNDUP: NO WAY OUT (2023)" tvg-logo="https://i.postimg.cc/4NDbjJ3D/film-the-roundup-no-way-out-2023-lk21-d21-jpg.jpg" group-title="Koreans Movies",THE ROUNDUP: NO WAY OUT (2023)
+
+#EXTINF:-1, tvg-id="THE ROUNDUP: NO WAY OUT (2023)" tvg-name="THE ROUNDUP: NO WAY OUT (2023)" tvg-logo="https://i.postimg.cc/4NDbjJ3D/film-the-roundup-no-way-out-2023-lk21-d21-jpg.jpg" group-title="Korean Movies",THE ROUNDUP: NO WAY OUT (2023)
 https://stream.hownetwork.xyz/xxx/the-roundup-no-way-out-2023-bluray_X_fe76a6e0/19/480.m3u8|Referer=https=stream.hownetwork.xyz 
