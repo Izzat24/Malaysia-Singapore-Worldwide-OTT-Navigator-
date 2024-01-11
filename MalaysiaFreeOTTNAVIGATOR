@@ -588,12 +588,8 @@ https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 #EXTINF:-1 tvg-id="CNN" group-title="News" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png?w=213",CNN International (B)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="BernamaTV" group-title="News" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/T1Bt7RHy/Bernama-logo.png",BERNAMA TV (Astro Feed)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews" group-title="News" group-logo="https://aqfadtv.xyz/images/astro_v2.png" tvg-logo="https://i.postimg.cc/FRDV9tDT/download-30.jpg",Sky News 
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
