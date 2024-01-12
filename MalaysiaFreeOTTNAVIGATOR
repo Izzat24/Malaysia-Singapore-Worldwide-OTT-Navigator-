@@ -298,12 +298,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2310/default.mpd
 #EXTINF:-1 tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://iili.io/1NB3Ou.png",Zee Tamil HD 
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default.mpd
 
-#EXTINF:-1 tvg-id="Vaanavil" tvg-name="Digital Vaanavil HD" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Indian" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Vaanavil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Vaanavil" tvg-name="Digital Vaanavil HD" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="India" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Vaanavil
+#EXTINF:-1 tvg-id="Vaanavil" tvg-name="Digital Vaanavil HD" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Indian" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Vaanavil
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1490,11 +1489,6 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="Sports Campuran" tvg-logo="https://i.postimg.cc/G2M5LGds/download-21.png",TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="634dtv.co" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.imgur.com/3pxWFeQ.png", Win Sports Plus
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/430810.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Sports Campuran", TUDN US
-http://23.237.108.234/hls/USA_TUDN.m3u8|user-agent=Roku(10.10.10)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WWE_%282014%29_logo.svg/580px-WWE_%282014%29_logo.svg.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Sports Campuran", WWE
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
@@ -1651,12 +1645,6 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.postimg.cc/BbCCqddK/download-2023-07-13-T125532-811.jpg" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png"  group-title="Sports Campuran", Star Sports 2 IN 
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.postimg.cc/xTgHckNg/download-32.jpg" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Sports Campuran", Star Sports Selects 1
-http://muka03.wanicelife.com:8880/RoyCyrus/8ZBK2swwZq/55270
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.postimg.cc/zBSv6Mnp/download-33.jpg" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Sports Campuran", Star Sports Selects 2
-http://sonyiptv.net:8080/titancode/000860/247162
-
 #EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Sports Campuran",Sony TEN 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
@@ -1676,9 +1664,6 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports Campuran",Sony TEN 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
-#EXTINF:-1 tvg-idÃ¯Â¿Â½="5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131" tvg-logo="https://i.postimg.cc/kX1fgrTb/download-5.jpg" group-title="Sports Campuran", T Sports 
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.postimg.cc/ZY20r6Ms/download-2.png" group-title="Sports Campuran",Abu Dhabi Sports 1 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
@@ -1868,9 +1853,6 @@ http://195.26.87.217/live?channelId=301&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 channel-id="AfroSports" tvg-name="AfroSports" tvg-logo="https://i.postimg.cc/Fs1Mr1NX/download-26.png" group-title="Sports Campuran", AfroSports
 https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 
-#EXTINF:-1 tvg-id="SuperTennis" tvg-logo="https://i.postimg.cc/HnqyRVT1/download-28.png" group-title="Sports Campuran", Super Tennis
-https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
-
 #EXTINF:-1 tvg-id="TennisInternational" tvg-logo="https://i.postimg.cc/2SsZ2HC9/download-24.jpg" group-title="Sports Campuran", Tennis International 
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
@@ -1994,20 +1976,6 @@ https://webudit.webdicdn.lol/lb/premium620/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.webdicdn.lol/lb/premium621/index.m3u8?
 
-#EXTINF:-1 tvg-id="SetantaSports.UKR" tvg-logo="https://i.postimg.cc/bY3nrBJZ/download.jpg" group-title="Sports Campuran", Setanta Ukraine Sports
-http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/272/index.m3u8
-
-#EXTINF:-1 tvg-id="SetantaSports1.UKR" tvg-logo="https://i.postimg.cc/RCtMbP6W/download-54.jpg" group-title="Sports Campuran", Setanta Sports 1 HD
-http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/271/index.m3u8
-
-#EXTINF:-1 tvg-id="SetantaSports2.UKR" tvg-logo="https://i.postimg.cc/T2tyfN2C/download-53.jpg" group-title="Sports Campuran", Setanta Sports 2 HD
-http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/270/index.m3u8
-
-#EXTINF:-1 tvg-id="SetantaSports.KHZ" tvg-logo="https://i.postimg.cc/4yRq7Q1d/download-58.png" group-title="Sports Campuran", Setanta Sports Kazakhstan 
-http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/2399/index.m3u8
-
-#EXTINF:-1 tvg-id="QazSports.KHZ" tvg-logo="https://i.postimg.cc/W424r0X5/download-59.png" group-title="Sports Campuran", Qaz Sports 
-http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/14032/index.m3u8
 
 #EXTINF:-1 group-title="Music Campuran" tvg-logo="https://i.postimg.cc/T2jvY69Y/download-64.png",Music Top HD
 http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/10072/index.m3u8
@@ -2080,34 +2048,12 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh" group-title="Sports Campuran" tvg-logo="",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Z6TPBv4/images-9.png" group-title="Sports Campuran", Sports 1
-http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Kids", LOCOMOTION
 https://3.ultimate2019.com/stream/hls/721|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="Kids",SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 tvg-id="MaxSport1.ru" tvg-name="" tvg-logo="https://i.postimg.cc/0277CMc3/20230606-005107.png" group-title="Sports Campuran",Max Sport 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 	
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 	
-https://webudit.webdicdn.lol/lb/premium472/index.m3u8 
-
-#EXTINF:-1 tvg-id="MaxSport2.ru" tvg-name="" tvg-logo="https://i.postimg.cc/0277CMc3/20230606-005107.png" group-title="Sports Campuran",Max Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 	
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 	
-https://webudit.webdicdn.lol/lb/premium473/index.m3u8 
-
-#EXTINF:-1 tvg-id="MaxSport3.ru" tvg-name="" tvg-logo="https://i.postimg.cc/0277CMc3/20230606-005107.png" group-title="Sports Campuran",Max Sport 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 	
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 	
-https://webudit.webdicdn.lol/lb/premium474/index.m3u8 
-
-#EXTINF:-1 tvg-id="MaxSport4.ru" tvg-name="" tvg-logo="https://i.postimg.cc/0277CMc3/20230606-005107.png" group-title="Sports Campuran",Max Sport 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 	
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 	
-https://webudit.webdicdn.lol/lb/premium475/index.m3u8
 
 #EXTINF:-1 tvg-id="GBNEWS" tvg-name="GBNEWS" tvg-logo="https://i.postimg.cc/cJyKrt17/download-70.jpg" group-title="News Campuran",GB NEWS
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
@@ -2117,19 +2063,6 @@ https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg010
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-033/stream.mpd?p=web
 
-#EXTINF:-1 tvg-id="" tvg-name="Nova.cz" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a563.png" group-title="Sports Campuran",Nova Sport 1 Czech Republic
-http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/279611
-
-#EXTINF:-1 tvg-id="" tvg-name="Nova.cz" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a564.png" group-title="Sports Campuran",Nova Sport 2 Czech Republic
-http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/46718
-
-#EXTINF:-1 tvg-id="" tvg-name="Nova.cz" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nova-sport-3-2640.png" group-title="Sports Campuran",Nova Sport 3 Czech Republic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://kuchini.site:8080/live/linuxapp2021/zdFTTQCKXWq84YWF/298867.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="nova.cz" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2641.png" group-title="Sports Campuran",Nova Sport 4 Czech Republic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://kuchini.site:8080/live/linuxapp2021/zdFTTQCKXWq84YWF/298866.m3u8
 
 #EXTINF:-1 group-title="Arabic Local" tvg-id="arriadia3.mr" tvg-logo="https://i.postimg.cc/sxVnMDWq/download-80.png",Arradia 3
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
@@ -2303,65 +2236,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-
-#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="|NL| ZIGGO SPORT VOETBAL FHD" tvg-logo="https://i.postimg.cc/zfwHNR9H/ziggo-VOETBAL.png" group-title="Sports Campuran",Ziggo Sport Voetbal 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ddy1.cdndac.lol/ddy1/premium398/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ziggosportdocu.nl" tvg-name="|NL| ZIGGO SPORT DOCU FHD" tvg-logo="https://i.postimg.cc/90Br53K3/ziggo-docu.png" group-title="Sports Campuran",Ziggo Sport Docu 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium383/index.m3u8
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="ziggosportselect.nl" tvg-name="|NL| ZIGGO SPORT SELECT FHD" tvg-logo="https://i.postimg.cc/RZSZtb8h/ziggo-select.png",Ziggo Sport Select 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (WindoÃ¯Â¿Â½ws NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium393/index.m3u8
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="ziggosportselect.nl" tvg-name="|NL| ZIGGO SPORT SELECT FHD" tvg-logo="https://i.postimg.cc/RZSZtb8h/ziggo-select.png",Ziggo Sport Select 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium393/index.m3u8
-
-#EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="CosmiteSports1" tvg-logo="https://i.postimg.cc/q7tdm7xL/download-11.png" group-title="Sports Campuran",Cosmite Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdndac.lol/lb/premium622/index.m3u8
-
-#EXTINF:-1 tvg-id="DDSPORTS" tvg-logo="https://i.postimg.cc/k4HJbjrF/download-12.png" group-title="Sports Campuran",DD SPORTS
-http://cpk-1.asu.lol:8080/ind_ddsports/tracks-v1a1/mono.m3u8?token=bynishad
-
 #EXTINF:-1 tvg-id="DDSPORTS" tvg-logo="https://i.postimg.cc/XqYJhFPh/download-13.png" group-title="Hindi Movies",Star Gold Romance
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
 
@@ -2380,8 +2254,6 @@ http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/7295/index.m3u8
 #EXTINF:-1 tvg-id="Mecha+" tvg-chno="1027" tvg-logo="https://i.postimg.cc/cHX6yfpH/download-16.png" group-title="Games&Tech Campuran",Mecha+
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=nJbHT3Bs_wz4bi_QihBt
 
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1
-http://vivk17.ottolok.net/iptv/L2V42NKZNF4YKV/228/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="BabySharktv" tvg-logo="https://i.postimg.cc/wjPJy0Hg/download-6.jpg", Baby Shark TV
 https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
@@ -2451,49 +2323,7 @@ https://edge1.laotv.la/live/StarMovie/index.m3u8
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/stream/starmoviesselectmac.m3u8
 
 #EXTINF:-1 tvg-id="FoxMovies.Pt" tvg-chno="1027" tvg-logo="https://i.postimg.cc/PfDCXTcS/download-24.png" group-title="Movies Campuran",Fox Movies PT 
-http://vo01.mohdtv.com:8880/live/ALLChannelsD8BE651451BB/96842653/60958.m3u8
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png",Arena Sport 1x2 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena_1x2.mpd
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png",Arena Sport 2 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena2.mpd
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png",Arena Sport 3 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png",Arena Sport 4 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
-  
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png",Arena Sport 5 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 6 Bosnia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/arena6.mpd 
+http://vo01.mohdtv.com:8880/live/ALLChannelsD8BE651451BB/96842653/60958.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/63W4vc03/download-10.jpg" group-title="👗Fashion Campuran👗",Global Fashion Channel
 https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -3092,12 +2922,6 @@ https://apwb.short.gy/MNetKorea/index.m3u8
 #EXTINF:-1 tvg-id="HollywoodTV" tvg-name="HollywoodTV" tvg-logo="https://i.postimg.cc/FK2b2VrJ/download-25.jpg" group-title="Movies Campuran",Hollywood TV 
 http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
 
-#EXTINF:-1 tvg-id="Sports18" tvg-name="Sports18" tvg-logo="https://i.postimg.cc/26Yx2nm7/download-42.png" group-title="Sports Campuran",SPORTS 18 
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-id="WillowCricketSports" group-title="Sports Campuran" tvg-logo="https://i.postimg.cc/FFSp7Z7j/download-37.jpg",Willow Cricket Sports 
-https://hls.streambtw.com/live/stream_e1.m3u8
-
 #EXTINF:-1 tvg-id="daznf1.es" tvg-logo="https://i.imgur.com/cz83rVf.png" group-title="DAZN Group", Dazn F1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3168,21 +2992,6 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="Sports Campuran",Premier Sports 1 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="Sports Campuran",Premier Sports 2 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="Sports Campuran",Premier Sports 3 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="Sports Campuran",Premier Sports 4 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="Sports Campuran",Premier Sports 5 Mongolia
-https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
 #EXTINF:-1 tvg-id="701" ch-number="701" group-title="⚽️Sports⚽️" tvg-logo="https://aqfadtv.xyz/logos/UnifiSports1_v1.png",unifi Sports 1 HD
@@ -3190,13 +2999,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/nerdtec.net/wp-content/uploads/2016/06/anime-2.png" group-title="Kids",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w362127434.m3u8
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="Sportsmart" tvg-logo="https://ibb.co/f0mR90F",Sportmart HD
-http://lsbpfcwk.megogo.xyz/iptv/VGXB2GSFMB5TYG/20060/index.m3u8
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="Sportsmart 2" tvg-logo="https://i.postimg.cc/gc1KyhSx/download-49.png",Sportmart 2 HD
-http://lsbpfcwk.megogo.xyz/iptv/VGXB2GSFMB5TYG/20059/index.m3u8
-
 
 #EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="Arabic Local",Oman Althakafia (1080p)
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
@@ -3209,12 +3011,6 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports Campuran",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="bbcearth" group-title="Knowledge" tvg-logo="https://i.ibb.co/3SRxHXv/BBC-Earth.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth (Vietnam Feed)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/bbcearth.php
-https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="tv5monde" group-title="Entertainment" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
@@ -3245,55 +3041,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="Movies Campuran",ALPO (720p) [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Al-Kass-1-1" tvg-name="Al-Kass-1-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Sports Campuran",Alkass One 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ew/master.m3u8
-
-#EXTINF:-1 tvg-id="Al-Kass-2-1" tvg-name="Al-Kass-2-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Sports Campuran",Alkass Two 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2e/master.m3u8
-
-#EXTINF:-1 tvg-id="Al-Kass-3-1" tvg-name="Al-Kass-3-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Sports Campuran",Alkass Three 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3e/master.m3u8
-
-#EXTINF:-1 tvg-id="Al-Kass-4-1" tvg-name="Al-Kass-4-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Sports Campuran",Alkass Four 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU",Alkass Five
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="PLAY SPORTS 1" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",PLAY SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="PLAY SPORTS 2" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",PLAY SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="PLAY SPORTS 3" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",PLAY SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Sports Campuran",Champions TV 1
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
-
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Sports Campuran",Champions TV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
-https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
-
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-logo="https://thumbor.prod.vidiocdn.com/Pd0SfzMEE5rUxTrpO-hjUdKdY-c=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="Sports Campuran",Champions TV 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
-https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kG23FYd3/download-33.jpg" group-title="Singapore@Sports",HUB°PREMIER°1°
 http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032529&extension=ts&play_hubpremier1
@@ -3422,39 +3169,6 @@ https://ythls.onrender.com/video/4FBW3mkdKOs.m3u8
 #EXTINF:-1 group-title="Douyu Movies" tvg-logo="https://i.postimg.cc/BnT204Q6/download-41.png", Douyu Movies 24/7 Marvel
 http://epg.112114.xyz/douyu/36337
 
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png" ,DAZN LA LIGA
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/eleven1.png" group-title="Sports Campuran", ELEVEN 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=das
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd|User-Agent=
-
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/eleven4.png" group-title="Sports Campuran", ELEVEN 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=das
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd|User-Agent=
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/400px-Eredivisie_nieuw_logo_2017-.svg.png" ,EREDIVISIE 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RC4aMZC.png" group-title="Sports Campuran",  V Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3462,16 +3176,6 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/400px-Eredivisie_nieuw_logo_2017-.svg.png" , SPORTS BEL 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 
 #EXTINF:-1 group-title="myFreeview: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01.jpg",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
@@ -4441,20 +4145,7 @@ https://webudit.webhd.ru/lb/premium307/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://01.webhd.ru/ddy5/premium341/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="TNTSPORTS.UK" tvg-logo="https://i.postimg.cc/d3P4mtFQ/download-2024-01-01-T090622-899.png",TNT SPORTS UK
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://01.webhd.ru/ddh2/premium31/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="TNTSPORTS2.UK" tvg-logo="https://i.postimg.cc/y6DB87vJ/download-2024-01-01-T093544-661.png",TNT SPORTS 2 UK
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://01.webhd.ru/ddh2/premium32/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports Campuran" tvg-id="TNTSPORTS3.UK" tvg-logo="https://i.postimg.cc/50v3sYfY/download-2024-01-01-T093557-806.png",TNT SPORTS 3 UK
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://01.webhd.ru/ddh2/premium33/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="USANETWORK.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/t4134Z81/download-2024-01-01-T095451-076.png",USA NETWORK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
@@ -4671,20 +4362,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 #EXTINF:-1 group-title="Movies Campuran" tvg-logo="https://i.postimg.cc/7hh7GMCS/download-31.jpg",Zee Bioskop
 https://newanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpggvGYv/useesports-88.png" group-title="Sports Campuran",Usee sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRB8hm81/grey-logo-useesports2-ver1.png" group-title="Sports Campuran",Usee sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
-
 #EXTINF:-1 tvg-id="EXPEND4BLES (2023)" tvg-name="EXPEND4BLES (2023)" group-title="English Movies" tvg-logo="https://i.postimg.cc/YqsXz0yY/film-expend4bles-2023-lk21-d21-jpg.jpg",EXPEND4BLES (2023)
 https://stream.hownetwork.xyz/xxx/expend4bles-2023-bluray_X_3c050818/18/480.m3u8|Referer=https:stream.hownetwork.xyz 
 
@@ -4884,14 +4561,96 @@ EXTINF:-1 tvg-id="KawanuaTV" group-title="TV DAERAH" tvg-logo="https://i.postimg
 http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Sports Campuran" tvg-id="PLAY SPORTS 1" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",PLAY SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 group-title="Sports Campuran" tvg-id="PLAY SPORTS 2" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",PLAY SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 group-title="Sports Campuran" tvg-id="PLAY SPORTS 3" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",PLAY SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-053/stream.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Sports Campuran",Champions TV 1
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Sports Campuran",Champions TV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV 3" tvg-logo="https://thumbor.prod.vidiocdn.com/Pd0SfzMEE5rUxTrpO-hjUdKdY-c=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="Sports Campuran",Champions TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpggvGYv/useesports-88.png" group-title="Sports Campuran",Usee sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRB8hm81/grey-logo-useesports2-ver1.png" group-title="Sports Campuran",Usee sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+
+#EXTINF:-1 group-title="Sports Campuran" tvg-id="TNTSPORTS.UK" tvg-logo="https://i.postimg.cc/d3P4mtFQ/download-2024-01-01-T090622-899.png",TNT SPORTS UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://01.webhd.ru/ddh2/premium31/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports Campuran" tvg-id="TNTSPORTS2.UK" tvg-logo="https://i.postimg.cc/y6DB87vJ/download-2024-01-01-T093544-661.png",TNT SPORTS 2 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://01.webhd.ru/ddh2/premium32/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports Campuran" tvg-id="TNTSPORTS3.UK" tvg-logo="https://i.postimg.cc/50v3sYfY/download-2024-01-01-T093557-806.png",TNT SPORTS 3 UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://01.webhd.ru/ddh2/premium33/tracks-v1a1/mono.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 
 
