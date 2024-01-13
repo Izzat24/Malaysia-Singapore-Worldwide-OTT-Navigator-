@@ -1315,9 +1315,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 http://iptvtree.net:8080/F26646/f950f250/162141
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="🇮🇩Indonesia🇮🇩",Indosiar
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+https://playlist-coffee.my.id/oxy/indosiar.m3u8
 
 #EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
@@ -1469,7 +1467,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w525349813_b3
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
-#EXTINF:-1,tvg-id="🇮🇩Indonesia🇮🇩" tvg-name="BTVNEWS" tvg-logo="https://i.postimg.cc/4N3mYNQZ/download-74.png" group-title="INDONESIA@NEWS",BTV NEWS
+#EXTINF:-1,tvg-id="🇮🇩Indonesia🇮🇩" tvg-name="BTVNEWS" tvg-logo="https://i.postimg.cc/4N3mYNQZ/download-74.png" group-title="🇮🇩INDONESIA🇮🇩",BTV NEWS
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
