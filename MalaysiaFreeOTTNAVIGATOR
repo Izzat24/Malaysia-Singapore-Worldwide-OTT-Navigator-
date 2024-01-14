@@ -4846,3 +4846,24 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=000396e3d0757680d7971de0d0742ce6:c73130782f138fa46098b3a522ab0e41
 http://linear030-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportsaction50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-id="Al-Kass-1-1" tvg-name="Al-Kass-1-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Asia World Cup Qatar 2023",Alkass One 
+http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=6578&extension=ts&play_token=u16olHQM9G
+
+#EXTINF:-1 tvg-id="Al-Kass-2-1" tvg-name="Al-Kass-2-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Asia World Cup Qatar 2023",Alkass Two 
+http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=591591&extension=ts&play_token=Ou2ISnuvCt
+
+#EXTINF:-1 tvg-id="Al-Kass-3-1" tvg-name="Al-Kass-3-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Asia World Cup Qatar 2023",Alkass Three 
+http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=787903&extension=ts&play_token=PtZWdX85kw
+
+#EXTINF:-1 tvg-id="Al-Kass-4-1" tvg-name="Al-Kass-4-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU" group-title="Asia World Cup Qatar 2023",Alkass Four 
+http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=591589&extension=ts&play_token=dur9aZQwn9
+
+#EXTINF:-1 group-title="Asia World Cup Qatar 2023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmO85TZl0UJafC1qgRvkUceRX8AdVYng9_IA&usqp=CAU",Alkass Five
+http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=591587&extension=ts&play_token=svTvpFXaZc
+
+#EXTINF:-1 group-title="Asia World Cup Qatar 2023" tvg-logo="https://i.postimg.cc/VsjHGCZt/1000528048.jpg",BeIN Sports Asia Cup 1
+http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=1424739&extension=ts&play_token=E8PsDPl4mg
+
+#EXTINF:-1 group-title="Asia World Cup Qatar 2023" tvg-logo="https://i.postimg.cc/cLVbkBWQ/Screenshot-2024-01-15-002954.jpg",BeIN Sports Asia Cup 2
+http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=1424735&extension=ts&play_token=mA5fLMoilf
