@@ -500,7 +500,7 @@ https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Movies",Citra HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
-https://hls.ulivetv.net/v/live/d839zbzqv3sw.m3u8?stream_id=d839zbzqv3sw&timestamp=1705302225&rand=ewG036QF06&uuid=k6TGyhr5Nix3jSVXBuFqf9&from=web&sign=bbaa5ee9539202381b9e9caa32197123&stream_id=d839zbzqv3sw|Referer=https://histar.tv 
+https://hls.ulivetv.net/v/live/d839zbzqv3sw.m3u8?stream_id=d839zbzqv3sw&timestamp=1705302225&rand=ewG036QF06&uuid=k6TGyhr5Nix3jSVXBuFqf9&from=web&sign=bbaa5ee9539202381b9e9caa32197123&stream_id=d839zbzqv3sw|Referer=https://histar.tv eb&sign=bbaa5ee9539202381b9e9caa32197123&stream_id=d839zbzqv3sw|Referer=https://histar.tv 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"}
