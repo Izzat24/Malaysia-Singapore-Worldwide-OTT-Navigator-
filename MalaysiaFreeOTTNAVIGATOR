@@ -9,6 +9,9 @@
 
 ______________________________________________
 
+#EXTINF:-1 group-title="TV Online" tvg-logo="https://i.postimg.cc/cJ91hrK3/download-2024-01-15-T072517-093.png",The Washington Post 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-washingtonpost-tablo/playlist.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
