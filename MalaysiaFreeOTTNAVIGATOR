@@ -263,7 +263,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd 
 
-#EXTINF:-1 tvg-id="Vellithirai" group-title="India" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Vellithirai
+#EXTINF:-1 tvg-id="Vellithirai" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Vellithirai
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -311,7 +311,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://refresh.cikgusuraya.workers.dev/?channel_id=2105
 
-#EXTINF:-1 tvg-id="SunNews" group-title="India" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/xjZbTw98/download-78.png", Sun News
+#EXTINF:-1 tvg-id="SunNews" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/xjZbTw98/download-78.png", Sun News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
 https://hls.ulivetv.net/v/live/d83aecvncc1s.m3u8?stream_id=d83aecvncc1s&timestamp=1705307068&rand=lgh8y2mIxh&uuid=gMX7GvL7iemMx2nbfJWoNu&from=web&sign=68ee68edc7f907b56099f8312f7e998a&stream_id=d83aecvncc1s|Referer=https://histar.tv 
 
@@ -322,7 +322,7 @@ https://hls.ulivetv.net/v/live/d83aecvncc1s.m3u8?stream_id=d83aecvncc1s&timestam
 #EXTINF:-1 tvg-id="SunLife" tvg-name="Sun Life" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png",Sun Life CH217
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5089/default.mpd
 
-#EXTINF:-1 tvg-id="KTV" group-title="India" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",KTV
+#EXTINF:-1 tvg-id="KTV" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",KTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
 https://hls.ulivetv.net/v/live/d83aeqzh76rk.m3u8?stream_id=d83aeqzh76rk&timestamp=1705306840&rand=L7LzVND2YB&uuid=cS65HFB3fB2wWDzX39DAMT&from=web&sign=1d1427ab21fae904dbf8ec71dfef598e&stream_id=d83aeqzh76rk|Referer=https://histar.tv 
 
