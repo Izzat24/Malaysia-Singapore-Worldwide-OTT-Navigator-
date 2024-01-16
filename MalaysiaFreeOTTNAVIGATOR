@@ -225,7 +225,7 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 
 #EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="104",104 Digital Ria FHD (Test Temporary)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
-https://hls.ulivetv.net/v/live/d839s8nk0rgg.m3u8?stream_id=d839s8nk0rgg&timestamp=1705301010&rand=DFHS2D1Vnc&uuid=5CAsL75EvyDWabSTswcFTm&from=web&sign=b64905d084a96f4a3b1e4564e94eebeb&stream_id=d839s8nk0rgg|Referer=https://histar.tv
+https://hls.ulivetv.net/v/live/d839s8nk0rgg.m3u8?stream_id=d839s8nk0rgg&timestamp=1705378828&rand=L8CUyeJDiM&uuid=7vEwj2Hd78kEQ36XTAHma9&from=web&sign=664368feca1beadccdd85b917552f904&stream_id=d839s8nk0rgg|Referer=https://histar.tv
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
