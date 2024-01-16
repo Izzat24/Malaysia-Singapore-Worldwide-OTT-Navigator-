@@ -15,6 +15,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-washingtonpost-tabl
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="Astro Tutor TV" group-title="Education" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/rsJnWjyB/download-2024-01-16-T152718-614.png",Astro Tutor TV 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="410.astro" tvg-name="ASTRO PREMIER" group-title="Astroxx" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier CH410
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default.mpd
