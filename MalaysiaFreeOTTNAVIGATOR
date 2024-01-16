@@ -4880,3 +4880,12 @@ http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=1424739&exten
 
 #EXTINF:-1 group-title="Asia World Cup Qatar 2023" tvg-logo="https://i.postimg.cc/cLVbkBWQ/Screenshot-2024-01-15-002954.jpg",BeIN Sports Asia Cup 2
 http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=1424735&extension=ts&play_token=mA5fLMoilf
+
+#EXTINF:-1 tvg-id="SkyShowcase" tvg-logo="https://i.postimg.cc/d1kTwQL7/download-2024-01-16-T125133-952.png" group-title="🇬🇧UK Movies🇬🇧",Sky Showcase UK
+http://xplatinmedia.com:8080/@Naas03/HcqNfNAaEHY8NE8TPkQ0htSufeJvtX/110275
+
+#EXTINF:-1 tvg-id="SkyAtlantic" tvg-logo="https://i.postimg.cc/8CsbfS7G/download-2024-01-16-T125449-572.jpg" group-title="🇬🇧UK Movies🇬🇧",Sky Atlantic UK
+http://xplatinmedia.com:8080/@Naas03/HcqNfNAaEHY8NE8TPkQ0htSufeJvtX/129
+
+#EXTINF:-1 tvg-id="SkyMax" tvg-logo="https://i.postimg.cc/GmDyWmTH/download-2024-01-16-T125815-025.jpg" group-title="🇬🇧UK Movies🇬🇧",Sky Max UK
+http://xplatinmedia.com:8080/@Naas03/HcqNfNAaEHY8NE8TPkQ0htSufeJvtX/127
