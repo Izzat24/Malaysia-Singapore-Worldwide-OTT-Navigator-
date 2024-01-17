@@ -4943,3 +4943,6 @@ http://moobl.ru/hls/Fox.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-logo="https://i.postimg.cc/7YLgprmG/download-2024-01-17-T145219-546.png" group-title="LIVE EVENTS",PETRONAS MALAYSIA OPEN 2024
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_170124/master_p2.m3u8?utm_medium=social&utm_source=heylink.me
+
+#EXTINF:-1,tvg-id="" tvg-logo="https://i.postimg.cc/nr8gzM12/Screenshot-2024-01-17-172410.jpg" group-title="Anime Movies",Moboroshi 2023
+https://jfr5sf.cfglobalcdn.com/silverlight/secip/78390/4788/hXl8dvGI26W4TOe-Kmuppg/MTE4LjEwMS4yMDcuMjEw/1705504038/hls-vod-s0013/flv/api/files/videos/2024/01/16/1705407224jhk2f.mp4.m3u8|Referer=https://hqq.tv
