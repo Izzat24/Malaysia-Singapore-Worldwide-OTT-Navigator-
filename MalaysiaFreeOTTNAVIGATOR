@@ -613,7 +613,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HscwdLZh/galaxy-premium.png" group-title="Movies", Galaxy Premium 
 http://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-id="Awani" group-title="News" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Awani (Another Feed)
+#EXTINF:-1 tvg-id="Awani" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Awani (Another Feed)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -647,7 +647,7 @@ https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 #EXTINF:-1 tvg-id="BernamaTV" tvg-name="BERNAMA" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://iili.io/1NnaSI.png",BERNAMA (Astrok Feed)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
-#EXTINF:-1 tvg-id="SkyNews" group-title="News" group-logo="https://aqfadtv.xyz/images/astro_v2.png" tvg-logo="https://i.postimg.cc/FRDV9tDT/download-30.jpg",Sky News HD (A)
+#EXTINF:-1 tvg-id="SkyNews" group-title="News&Business" group-logo="https://aqfadtv.xyz/images/astro_v2.png" tvg-logo="https://i.postimg.cc/FRDV9tDT/download-30.jpg",Sky News HD (A)
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -667,7 +667,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.
 #EXTINF:-1 tvg-id="BBCWorldNews" tvg-name="BBC World News HD" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://iili.io/1NnEts.png",BBC World News HD (B)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/AlJazeera.png",Al Jazeera English (A)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/AlJazeera.png",Al Jazeera English (A)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJEindex.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -677,7 +677,7 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera English HD" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://iili.io/1NnMoG.png",AlJazeera English HD (B)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
 
-#EXTINF:-1 tvg-id="CNA" group-title="News" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA (A)
+#EXTINF:-1 tvg-id="CNA" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA (A)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -714,7 +714,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default.mpd
 #EXTINF:-1 tvg-id="ABCAustralia" tvg-name="ABC Australia" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://iili.io/1NnOH7.png",ABC Australia CH518
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default.mpd
 
-#EXTINF:- tvg-id="WION" tvg-name="WION" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/8PvbDgrF/download-2023-06-15-T224602-499.png" group-title="News", WION 
+#EXTINF:- tvg-id="WION" tvg-name="WION" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/8PvbDgrF/download-2023-06-15-T224602-499.png" group-title="News&Business", WION 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
@@ -725,7 +725,7 @@ https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN HD" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://iili.io/1Nnl9t.png",CGTN (Astrok Feed)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
 
-#EXTINF:-1 tvg-id="CGTN" group-title="News" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CGTN.png",CGTN (Malaysian Feed) (B)
+#EXTINF:-1 tvg-id="CGTN" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CGTN.png",CGTN (Malaysian Feed) (B)
 http://live.cgtn.com/1000/prog_index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -735,7 +735,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW English" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://iili.io/1me2Qj.png",DW English (A)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
 
-#EXTINF:-1 tvg-id="DW" group-title="News" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png",DW English (B)
+#EXTINF:-1 tvg-id="DW" group-title="News&Business" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png",DW English (B)
 https://youtube-hls-m3u8.nixiehai263.repl.co/video/pqabxBKzZ6M.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
