@@ -4916,3 +4916,27 @@ https://webudit.webhd.ru/lb/premium135/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 group-title="Knowledge" tvg-id=" tvg-logo="https://i.postimg.cc/wMvg5tMq/download-2024-01-17-T124710-117.png",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-logo="https://i.postimg.cc/zBq82HLZ/ebc-foreign-movie-tw.png" group-title="Movies Campuran 2",EBC Foreign Movie (東森洋片) (1080p)
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+
+#EXTINF:-1 tvg-id="EBCMovie.tw"  tvg-logo="https://i.postimg.cc/50Wqhb1M/download-2024-01-17-T123012-600.jpg" group-title="Movies Campuran 2",EBC Movie (東森電影) (1080p)
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+
+#EXTINF:-1 tvg-id="Viasat Kino Action"  tvg-logo="https://i.postimg.cc/xCfsqMpd/download-2024-01-17-T124501-290.jpg group-title="Movies Campuran 2", Viasat Kino Action (1080p)
+http://89.254.128.5:22280/viasat_kino_action/index.m3u8
+
+#EXTINF:-1 tvg-id="Super!"  tvg-logo="https://i.postimg.cc/FKyDs7TK/download-2024-01-17-T123227-426.png" group-title="Kids",Super!(東森電影) (1080p)
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-logo="https://i.postimg.cc/Y0HRWgCV/download-2024-01-17-T123344-546.png" group-title="Kids",Карусель
+http://moobl.ru/hls/Karusel.m3u8
+
+#EXTINF:-1 tvg-id="CarouselInternational.ru", group-logo="https://i.postimg.cc/Y0HRWgCV/download-2024-01-17-T123344-546.png" group-title="Kids",Карусель Int
+http://moobl.ru/hls/Karusel_int.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-logo="https://i.postimg.cc/h4mP4mxn/download-2024-01-17-T123723-820.png" group-title="Entertainment",Fox
+http://moobl.ru/hls/Fox.m3u8
