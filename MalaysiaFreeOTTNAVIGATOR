@@ -4940,3 +4940,6 @@ http://moobl.ru/hls/Karusel_int.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-logo="https://i.postimg.cc/h4mP4mxn/download-2024-01-17-T123723-820.png" group-title="Entertainment",Fox
 http://moobl.ru/hls/Fox.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-logo="https://i.postimg.cc/7YLgprmG/download-2024-01-17-T145219-546.png" group-title="LIVE EVENTS",PETRONAS MALAYSIA OPEN 2024
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_170124/master_p2.m3u8?utm_medium=social&utm_source=heylink.me
