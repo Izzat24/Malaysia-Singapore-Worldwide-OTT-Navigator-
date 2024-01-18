@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://bit.ly/seijiepg" refresh="1440" billed-msg="PLAYLIST INI PERCUMA,TIDAK UNTUK DIJUAL" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg="PLAYLIST INI PERCUMA,TIDAK UNTUK DIJUAL" 
 
 
-#EXTM3U url-tvg="https://bit.ly/go-epg1"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml"
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_ID.xml.gz"
@@ -5043,3 +5043,89 @@ https://r.mjh.nz/PlutoTV/5c2d64ffbdf11b71587184b8-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6132619f9ddaa50007e7dd86" tvg-id="6132619f9ddaa50007e7dd86" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" tvg-chno="390" group-title="PlutoTV:USA" , More TV Sitcoms
 https://r.mjh.nz/PlutoTV/6132619f9ddaa50007e7dd86-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-60c8b3ddaaf9d4000780066f" tvg-id="60c8b3ddaaf9d4000780066f" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" tvg-chno="606" group-title="PlutoTV:Music" , Pluto TV K-Pop
+https://r.mjh.nz/PlutoTV/60c8b3ddaaf9d4000780066f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ca6748a37b88b269472dad9" tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" tvg-chno="3010" group-title="PlutoTV:Kids" , Nick Jr. Pluto TV
+https://r.mjh.nz/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d14fb6c84dd37df3b4290c5" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" tvg-chno="3030" group-title="PlutoTV:Kids" , Dora TV
+https://r.mjh.nz/PlutoTV/5d14fb6c84dd37df3b4290c5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-51c75f7bb6f26ba1cd00002f" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" tvg-chno="3040" group-title="PlutoTV:Kids" , Little Stars Universe
+https://r.mjh.nz/PlutoTV/51c75f7bb6f26ba1cd00002f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5eb301b7395671000780d100" tvg-id="5eb301b7395671000780d100" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" tvg-chno="3050" group-title="PlutoTV:Kids" , Little Baby Bum
+https://r.mjh.nz/PlutoTV/5eb301b7395671000780d100-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" tvg-chno="3070" group-title="PlutoTV:Kids" , Baby Shark TV
+https://r.mjh.nz/PlutoTV/60faffc3fbbc120007fc4376-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ca673e0d0bd6c2689c94ce3" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" tvg-chno="3080" group-title="PlutoTV:Kids" , Nickelodeon Pluto TV
+https://r.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d0c16d686454ead733d08f8" tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" tvg-chno="3120" group-title="PlutoTV:Kids" , TOTALLY TURTLES
+https://r.mjh.nz/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" tvg-chno="3130" group-title="PlutoTV:Kids" , Transformers TV
+https://r.mjh.nz/PlutoTV/60fb053712f22a0007ff14d2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60f9ebb06f0b3d000746fbdb" tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png" tvg-chno="3140" group-title="PlutoTV:Kids" , Team Spirit
+https://r.mjh.nz/PlutoTV/60f9ebb06f0b3d000746fbdb-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" tvg-chno="3150" group-title="PlutoTV:Kids" , LEGO Kids TV
+https://r.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5db0ad56edc89300090d2ebb" tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" tvg-chno="3160" group-title="PlutoTV:Kids" , Kids Movie Club
+https://r.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5db0ad56edc89300090d2ebb" tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" tvg-chno="3160" group-title="PlutoTV:Kids" , Kids Movie Club
+https://r.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb028c2e6a0c00075275a5" tvg-id="60fb028c2e6a0c00075275a5" tvg-logo="https://images.pluto.tv/channels/60fb028c2e6a0c00075275a5/colorLogoPNG.png" tvg-chno="3170" group-title="PlutoTV:Kids" , Rainbow Squad
+https://r.mjh.nz/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb040d4795a6000762fe8f" tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" tvg-chno="3180" group-title="PlutoTV:Kids" , Kartoon Channel!
+https://r.mjh.nz/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dae0a40e8ee0d000975e99b" tvg-id="5dae0a40e8ee0d000975e99b" tvg-logo="https://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" tvg-chno="3190" group-title="PlutoTV:Kids" , pocket.watch
+https://r.mjh.nz/PlutoTV/5dae0a40e8ee0d000975e99b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fb584b7613a31000789de5a" tvg-id="5fb584b7613a31000789de5a" tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" tvg-chno="3200" group-title="PlutoTV:Kids" , Ryan and Friends
+https://r.mjh.nz/PlutoTV/5fb584b7613a31000789de5a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faf9368c7ad900082bc9a8" tvg-id="60faf9368c7ad900082bc9a8" tvg-logo="https://images.pluto.tv/channels/60faf9368c7ad900082bc9a8/colorLogoPNG.png" tvg-chno="3210" group-title="PlutoTV:Kids" , Find Out Why
+https://r.mjh.nz/PlutoTV/60faf9368c7ad900082bc9a8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-56171fafada51f8004c4b40f" tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" tvg-chno="3220" group-title="PlutoTV:Kids" , Forever Kids
+https://r.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-637e55347427a40007fac703" tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" tvg-chno="3290" group-title="PlutoTV:Kids" , Sailor Moon
+https://r.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5812b7d3249444e05d09cc49" tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvg-chno="3300" group-title="PlutoTV:Kids" , Anime All Day
+https://r.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f7790b3ed0c88000720b241" tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" tvg-chno="3310" group-title="PlutoTV:Kids" , One Piece
+https://r.mjh.nz/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5da0c85bd2c9c10009370984" tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" tvg-chno="3320" group-title="PlutoTV:Kids" , Naruto
+https://r.mjh.nz/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f4ec10ed9636f00089b8c89" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" tvg-chno="3330" group-title="PlutoTV:Kids" , Yu-Gi-Oh! (US Feed)
+https://r.mjh.nz/PlutoTV/5f4ec10ed9636f00089b8c89-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60f74ba51c82ac000776c669" tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" tvg-chno="3340" group-title="PlutoTV:Kids" , Lupin the 3rd
+https://r.mjh.nz/PlutoTV/60f74ba51c82ac000776c669-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-646cc23ae94c3800082f6793" tvg-id="646cc23ae94c3800082f6793" tvg-logo="https://images.pluto.tv/channels/646cc23ae94c3800082f6793/colorLogoPNG.png" tvg-chno="357" group-title="PlutoTV:Kids" , Inazuma Eleven (English Feed) (A)
+https://r.mjh.nz/PlutoTV/646cc23ae94c3800082f6793-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-642aeeef2912c900080a0a72" tvg-id="642aeeef2912c900080a0a72" tvg-logo="https://images.pluto.tv/channels/642aeeef2912c900080a0a72/colorLogoPNG.png" tvg-chno="358" group-title="PlutoTV:Kids" , Yu-Gi-Oh! (Norway Feed)
+https://r.mjh.nz/PlutoTV/642aeeef2912c900080a0a72-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-646cc350939a59000889eb87" tvg-id="646cc350939a59000889eb87" tvg-logo="https://images.pluto.tv/channels/646cc350939a59000889eb87/colorLogoPNG.png" tvg-chno="356" group-title="PlutoTV:Kids" , Pluto TV Anime
+https://r.mjh.nz/PlutoTV/646cc350939a59000889eb87-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-646cc5dfee6a2f000830943e" tvg-id="646cc5dfee6a2f000830943e" tvg-logo="https://images.pluto.tv/channels/646cc5dfee6a2f000830943e/colorLogoPNG.png" tvg-chno="342" group-title="PlutoTV:Kids" , Inazuma Eleven (English Feed) (B)
+https://r.mjh.nz/PlutoTV/646cc5dfee6a2f000830943e-alt.m3u8
