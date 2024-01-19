@@ -2261,8 +2261,10 @@ http://112.196.61.212:9292/MN_PLUS_FHD_VIDECON/index.m3u8
 #EXTINF:-1 tvg-id="MNX" tvg-logo="https://i.postimg.cc/YC2SJvz1/download-7.png" group-title="Movies Campuran",MNX 
 http://watchtv.best:80/play/live.php?mac=00:1A:79:51:73:19&stream=156021&extension=ts&play_token=LOFRlvPp2c
 
-#EXTINF:-1 tvg-id="StarMovies" tvg-logo="https://i.postimg.cc/G27bvKyt/download-5.png" group-title="Movies Campuran",Star Movies HD (A)
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/stream/starmoviesmac.m3u8
+#EXTINF:0 tvg-id="StarMovies" tvg-name="" tvg-logo="https://i.ibb.co/cgmX5zn/images-1-removebg-preview.png" group-title="Movies Campuran",Star Movies (A)
+#EXTVLCOPT:http-referrer=https://entezeetv.fun/oreo/?play=82c6ee08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://entezeetv.fun/oreo/live.php?id=82c6ee08&e=.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies" tvg-logo="https://i.postimg.cc/G27bvKyt/download-5.png" group-title="Movies Campuran",Star Movies HD (B)
 https://edge1.laotv.la/live/StarMovie/index.m3u8
