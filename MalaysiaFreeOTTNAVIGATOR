@@ -9,6 +9,26 @@
 
 ______________________________________________
 
+#EXTINF:-1 tvg-name="Travel&Taste" tvg-logo="" group-title="NjoiFree"  tvg-logo="https://i.postimg.cc/FH03nYx5/80-8.jpg", Travel & Taste (Njoi Free)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+
+#EXTINF:-1, group-title="CHANNEL | MOVIES" tvg-id="NjoiFree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+
+#EXTINF:-1, group-title="NjoiFree" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+
+#EXTINF:-1 tvg-name="Lawak Sentral" tvg-logo="" group-title="NjoiFree"  tvg-logo="https://i.postimg.cc/NjQmSgCK/80-4.jpg", Lawak Sentral (Njoi Free)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+
+#EXTINF:-1, group-title="NjoiFree" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sooka_Drama_Hebat.png/640px-Sooka_Drama_Hebat.png",Drama Hebat Malaysia 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
 #EXTINF:-1 group-title="TV Online" tvg-logo="https://i.postimg.cc/cJ91hrK3/download-2024-01-15-T072517-093.png",The Washington Post 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-washingtonpost-tablo/playlist.m3u8
 
@@ -1562,7 +1582,7 @@ http://210.210.155.37/x6bnqe/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="Movies" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="19" tvg-logo="https://i.postimg.cc/V6qgKWKC/download-62.jpg",Thrill
 https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 
-  #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nUO8xR83UFUNMhzcN+V8yQ", "kid":"BAPmVN2rQZ22zHK7P6USSA" } ], "type":"temporary" }
@@ -1691,9 +1711,11 @@ https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-id="KSASports2.bh" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="Sports Campuran",KSA Sports 2 (720p) [Not 24/7]
 https://edge.taghtia.com/sa/10.m3u8
 
-#EXTINF:-1 tvg-id="KSASports3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Sports Campuran",KSA Sports 3 (1080p) [Not 24/7] https://edge.taghtia.com/sa/16.m3u8 
+#EXTINF:-1 tvg-id="KSASports3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Sports Campuran",KSA Sports 3 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/16.m3u8 
 
-#EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="Sports Campuran",KSA Sports 4 (1080p) [Not 24/7] https://edge.taghtia.com/sa/17.m3u8
+#EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="Sports Campuran",KSA Sports 4 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/17.m3u8
 
 #EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports Campuran",Dubai Sports 1 (1080p)
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
@@ -1894,7 +1916,8 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Boxing TV https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 group-title="Sports Campuran" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
 
 #EXTINF:-1 tvg-id="LFCTV" group-title="Sports Campuran" tvg-logo="https://i.postimg.cc/C1Y0ZB7K/download-41.png",LIVERPOOL FC TV
 http://xtv.ooo:8080/87760000/44337788/346243
@@ -2014,7 +2037,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Kids", LOCOMOTION
 https://3.ultimate2019.com/stream/hls/721|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20860353_ico.png?ts=1654812112" group-title="Kids",SPACETOON
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QznCfmm/download-2024-01-19-T201850-211.png" group-title="Kids",SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 
@@ -3105,46 +3128,6 @@ http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=
 
 #EXTINF:-1 tvg-name="Kids.Co" tvg-logo=""  group-title="OSNGroup" tvg-logo="",OSN Kids.Co
 http://iptvmedia.live:8080/mitrovic/ff9bb47a59/281501
-
-#EXTINF:-1 tvg-name="Travel&Taste" tvg-logo="" group-title="NjoiFree"  tvg-logo="https://i.postimg.cc/FH03nYx5/80-8.jpg", Travel & Taste (Njoi Free)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-
-#EXTINF:-1 tvg-name="DramaHotspot" group-title="NjoiFree"  tvg-logo="https://i.postimg.cc/7LmCp0Gc/80-7.jpg", Drama Hotspot (Njoi Free)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
-
-#EXTINF:-1 tvg-name="FilemMantap" tvg-logo="" group-title="NjoiFree"  tvg-logo="https://i.postimg.cc/3Rz2cmzh/80-6.jpg", Filem Mantap (Njoi Free)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
-
-#EXTINF:-1 tvg-name="Lawak Sentral" tvg-logo="" group-title="NjoiFree"  tvg-logo="https://i.postimg.cc/NjQmSgCK/80-4.jpg", Lawak Sentral (Njoi Free)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
-
-
-#EXTINF:-1 tvg-name="DramaHebat" tvg-logo="" group-title="NjoiFree"  tvg-logo="https://i.postimg.cc/Sxwqjs0s/download-84.png", Drama Hebat (Njoi Free)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
-
-
-#EXTINF:-1 tvg-name="KaruselTV" tvg-logo="https://i.postimg.cc/CKzngBL5/download-52.jpg" group-title="Russian@Kids"  tvg-logo="https://i.postimg.cc/TPx4sN59/0.jpg", Karusel TV (Russian TV)
-http://bpmgfxf7.akciatv.ru/iptv/QATD64XDNSRTAE/156/index.m3u8
-
-#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.postimg.cc/DZ5NXwb9/download-53.jpg" group-title="🇹🇭Thailand🇹🇭",ALTV4 
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="A2Z" tvg-logo="https://i.postimg.cc/fyzC6qs6/download-56.jpg" group-title="PHILIPINES LOCAL",A2Z CHANNEL 11
-http://skyvisiontv@4ksuper.live:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926206&extension=ts&play_token=PvlTiSAjgA
-
-#EXTINF:-1 tvg-id="GMAPINOY" tvg-logo="https://i.postimg.cc/jdkcFhFF/download-55.jpg" group-title="PHILIPINES LOCAL",GMA PINOY
-http://iptvtree.net:8080/67e74f3b/fa47f96243/147238
-
-#EXTINF:-1 tvg-id="GMALIFE" tvg-logo="https://i.postimg.cc/wxwQ1Vgj/download-54.jpg" group-title="PHILIPINES LOCAL",GMA LIFE
-http://iptvtree.net:8080/67e74f3b/fa47f96243/144867
-
-#EXTINF:-1 tvg-id="TV5" tvg-logo="https://i.postimg.cc/RZH7bxfW/download-68.png" group-title="PHILIPINES LOCAL",TV5
-http://iptvtree.net:8080/67e74f3b/fa47f96243/266852
 
 #EXTINF:-1 tvg-id="TV5CAMBODIA.KH" tvg-logo="https://i.postimg.cc/JhdPzK4f/download-57.jpg" group-title="🇰🇭Cambodia🇰🇭",TV5 CAMBODIA 
 http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8
@@ -5131,3 +5114,18 @@ https://r.mjh.nz/PlutoTV/646cc350939a59000889eb87-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-646cc5dfee6a2f000830943e" tvg-id="646cc5dfee6a2f000830943e" tvg-logo="https://images.pluto.tv/channels/646cc5dfee6a2f000830943e/colorLogoPNG.png" tvg-chno="342" group-title="PlutoTV:Kids" , Inazuma Eleven (English Feed) (B)
 https://r.mjh.nz/PlutoTV/646cc5dfee6a2f000830943e-alt.m3u8
+
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.postimg.cc/DZ5NXwb9/download-53.jpg" group-title="🇹🇭Thailand🇹🇭",ALTV4 
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2Z" tvg-logo="https://i.postimg.cc/fyzC6qs6/download-56.jpg" group-title="PHILIPINES LOCAL",A2Z CHANNEL 11
+http://skyvisiontv@4ksuper.live:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926206&extension=ts&play_token=PvlTiSAjgA
+
+#EXTINF:-1 tvg-id="GMAPINOY" tvg-logo="https://i.postimg.cc/jdkcFhFF/download-55.jpg" group-title="PHILIPINES LOCAL",GMA PINOY
+http://iptvtree.net:8080/67e74f3b/fa47f96243/147238
+
+#EXTINF:-1 tvg-id="GMALIFE" tvg-logo="https://i.postimg.cc/wxwQ1Vgj/download-54.jpg" group-title="PHILIPINES LOCAL",GMA LIFE
+http://iptvtree.net:8080/67e74f3b/fa47f96243/144867
+
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://i.postimg.cc/RZH7bxfW/download-68.png" group-title="PHILIPINES LOCAL",TV5
+http://iptvtree.net:8080/67e74f3b/fa47f96243/266852
