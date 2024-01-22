@@ -5307,6 +5307,11 @@ https://linear035-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/c
 #KODIPROP:inputstream.adaptive.license_key=000551dd6a872e5c39a76f48db2da7c9:f8f0ca6ad25b45fafe3d77fd6dbdcfc7
 http://linear016-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(skycinemascifi)/manifest_sd.mpd
 
+#EXTINF:-1 tvg-id="SkyAtlantic" tvg-logo="https://i.postimg.cc/8CsbfS7G/download-2024-01-16-T125449-572.jpg" group-title="SkyGroup",Sky Atlantic UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium362/index.m3u8
+
 #EXTINF:-1 tvg-id="Sky Sci-Fi HD" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2022/07/logo-SKY-SCIFI-WEBSITE-CHANNEL-PAGE.png" group-title="SkyGroup", Sky Sci-Fi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5344,3 +5349,4 @@ https://korhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaCinema.IR" tvg-logo="https://i.postimg.cc/fW9Tn6Rs/download-2024-01-23-T004908-537.jpg" group-title="Movies Campuran 2", Persiana Cinema 
 https://cinehls.persiana.live/hls/stream.m3u8
+
