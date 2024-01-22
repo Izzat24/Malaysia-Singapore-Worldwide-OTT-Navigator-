@@ -5312,3 +5312,34 @@ http://linear016-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/ch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00058f61073607dd9d0430014ba22538:ebffc7aac38bb87da6870a73cb60a8a9
 http://linear016-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(skyscifi)/manifest_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTINF:-1 tvg-id="MTV LIVE - [Channel 148].id" group-title="Music" tvg-logo="https://telegra.ph/file/3d40ceb0cbbf895b62bcb.png",MTV LIVE
+https://mangga-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTINF:-1 tvg-id="MTV 90's - [Channel 149].id" group-title="Music" tvg-logo="https://telegra.ph/file/0eb1eee9662483a4aa70e.png",MTV 90's
+https://mangga-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|Referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IvlkptaSfM26SC53XN/xkA","kid":"OsJUKk9750ZjPbB2R0UXEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="718.astro" tvg-name="MTV HD" group-title="Music" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png" ch-number="718",718 MTV Live FHD  
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GrandCinema.IR" tvg-logo="https://i.postimg.cc/Pq4ZXWRh/download-2024-01-23-T003637-458.jpg" group-title="Movies Campuran 2", Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AvaSeries.IR" tvg-logo="https://i.postimg.cc/BQDHXLY8/download-2024-01-23-T004052-387.jpg" group-title="Movies Campuran 2", Ava Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AvaFamily.IR" tvg-logo="https://i.postimg.cc/wTLzZgM8/download-2024-01-23-T004250-573.jpg" group-title="Movies Campuran 2", Ava Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaKorean.IR" tvg-logo="https://i.postimg.cc/kgpKY05S/download-2024-01-23-T004618-310.jpg" group-title="Movies Campuran 2", Persiana Korean
+https://korhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaCinema.IR" tvg-logo="https://i.postimg.cc/fW9Tn6Rs/download-2024-01-23-T004908-537.jpg" group-title="Movies Campuran 2", Persiana Cinema 
+https://cinehls.persiana.live/hls/stream.m3u8
