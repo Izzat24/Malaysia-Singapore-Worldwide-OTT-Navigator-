@@ -5258,7 +5258,7 @@ https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w687097856.m3u8?w
 
 #EXTINF:-1 tvg-id="channel 9" tvg-name="Channel 9 HD" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-d4b.jpg", Channel 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
-https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDI0IDg6MTY6MTQgQU0maGFzaF92YWx1ZT1sTnBHN2MwRWN4WC9LbUMrRFdvMVd3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3
+https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/chunks.m3u8?nimblesessionid=312525&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDQ6NTM6MTMgUE0maGFzaF92YWx1ZT1GeC82L0pSUGx0djQ2Z0pkMDczNWhnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3|Referer=https://www.myanmartvchannels.com/
 
 #EXTINF:-1 group-title="SkyGroup" tvg-id="" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt6c48136cb0a839da/6538cedc1def436082b7aa0f/Sky_Arts_Logo.png",Sky Arts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
