@@ -5255,6 +5255,17 @@ https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w193492443.m3u8?wmsA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
 https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w687097856.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDI0IDc6NDY6MTcgQU0maGFzaF92YWx1ZT1yK0IzU2NyVFZZRWI1aWovczV5UzN3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE1|Referer=https://www.myanmartvchannels.com/
 
+#EXTINF:-1 tvg-id="FortuneTV" tvg-name="FortuneTV" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-120x120-f49.jpg", Fortune TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
+https://streammain.myanmartvchannels.com:999/website-fortune-stream/website-fortune-stream/chunks.m3u8?nimblesessionid=312553&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6MTI6MzcgUE0maGFzaF92YWx1ZT1vSndhTXBsVVVZZTJtb1czeldQRGZBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ1|Referer=https://www.myanmartvchannels.com/
+
+#EXTINF:-1 tvg-id="MITV" tvg-name="MITV" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mitv-120x120-12c.jpg", MITV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/chunklist_w952137990.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6MTc6MTIgUE0maGFzaF92YWx1ZT1sNzI2Q3JNNVdiNHNsbW5qeE1SbDJRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEx|Referer=https://www.myanmartvchannels.com/
+
+#EXTINF:-1 tvg-id="MNTV" tvg-name="MNTV" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg", MNTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6MTk6NTkgUE0maGFzaF92YWx1ZT02Ujg2NlJlV0RNeFN0RU5vdlAzc09RPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTI4|Referer=https://www.myanmartvchannels.com/
 
 #EXTINF:-1 tvg-id="channel 9" tvg-name="Channel 9 HD" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-d4b.jpg", Channel 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
