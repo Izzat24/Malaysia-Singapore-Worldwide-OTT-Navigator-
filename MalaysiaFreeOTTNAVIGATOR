@@ -8,7 +8,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_MY.xml"
 
 ______________________________________________
-
 #EXTINF:-1, group-title="NjoiFree" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
@@ -278,12 +277,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-title="Astroxx", OASIS HD
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
-#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Astroxx",Citra HD (Test 1Days)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
-https://hls.watchtv.uk/Citra/playlist-39.m3u8a?t=1705837162&token=9ce39696bfb6f119d316d8b10d092d14|Referer=https://www.xhzb.com 
-
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Astroxx",WARNA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
 https://hls.ulivetv.net/v/live/d839y3wfvxmo.m3u8?stream_id=d839y3wfvxmo&timestamp=1705302003&rand=PB7sgsOROO&uuid=vAp3SARyv9oNy72YeefPPq&from=web&sign=8703adf8f18281fcd89456e99ea81f4c&stream_id=d839y3wfvxmo|Referer=https:histar.tv 
+
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Astroxx",Citra HD (Test 1Hari)
+https://hls.watchtv.uk/Citra/playlist-39.m3u8a?t=1705837162&token=9ce39696bfb6f119d316d8b10d092d14|Referer=https://www.xhzb.com 
   
 #EXTINF:-1 tvg-id="Rania" group-title="Indonesia Exclusive" ch-number="112" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Rania (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -540,10 +539,6 @@ https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KBS2TV.kr" group-title="Korean" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KBS 2
 https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Movies",Citra HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
-https://hls.ulivetv.net/v/live/d839zbzqv3sw.m3u8?stream_id=d839zbzqv3sw&timestamp=1705302225&rand=ewG036QF06&uuid=k6TGyhr5Nix3jSVXBuFqf9&from=web&sign=bbaa5ee9539202381b9e9caa32197123&stream_id=d839zbzqv3sw|Referer=https://histar.tv 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"}
@@ -897,6 +892,9 @@ http://vo01.mohdtv.com:8880/ALLChannels681def17c68f/13038313/26531
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network DSTV (B)
 http://4ksuper.live:80/live/nilsson/nilsson/1118098.ts
 
+#EXTINF:-1 tvg-id="TringKids"  tvg-name="TringKids" tvg-logo="https://i.postimg.cc/bNMVWyJF/download-2024-01-22-T003142-850.jpg" tvg-name="TringKids" group-title="Kids",Tring Kids
+http://4ksuper.live:80/live/nilsson/nilsson/116186.ts
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1086,9 +1084,6 @@ http://9002bc70.ottrast.com/iptv/HXTW335VAVK3HG/9261/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/Nickelodeon.png", Nickelodeon (Russian+English)
 http://9002bc70.ottrast.com/iptv/HXTW335VAVK3HG/541/index.m3u8
-
-#EXTINF:-1 tvg-id="TringKids"  tvg-name="TringKids" tvg-logo="https://i.postimg.cc/bNMVWyJF/download-2024-01-22-T003142-850.jpg" tvg-name="TringKids" group-title="Kids",Tring Kids
-http://4ksuper.live:80/live/nilsson/nilsson/116186.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2449,16 +2444,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01402-alchimiemedia-luxeuk-xiaomi/p
 
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="mcs" tvg-logo="" group-title="🇲🇲Myanmar🇲🇲",MCS (720p)
-https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
-
-#EXTINF:-1 tvg-id="MaharBawdiTV.mm" tvg-logo="https://i.imgur.com/lV7WEVs.png" group-title="🇲🇲Myanmar🇲🇲",Mahar Bawdi TV (480p)
-https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MaharTV.mm" tvg-logo="https://i.imgur.com/ig0QECf.png" group-title="🇲🇲Myanmar🇲🇲",Mahar TV (720p)
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religion" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV (360p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -5255,6 +5240,15 @@ https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w193492443.m3u8?wmsA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
 https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w687097856.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDI0IDc6NDY6MTcgQU0maGFzaF92YWx1ZT1yK0IzU2NyVFZZRWI1aWovczV5UzN3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTE1|Referer=https://www.myanmartvchannels.com/
 
+
+#EXTINF:-1 tvg-id="channel 9" tvg-name="Channel 9 HD" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-d4b.jpg", Channel 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
+https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/chunks.m3u8?nimblesessionid=312525&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDQ6NTM6MTMgUE0maGFzaF92YWx1ZT1GeC82L0pSUGx0djQ2Z0pkMDczNWhnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3|Referer=https://www.myanmartvchannels.com/
+
+#EXTINF:-1 tvg-id="channelMe" tvg-name="ChannelMe" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://i.postimg.cc/25bK237g/images-12.png", Channel Me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w317195855.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6MDI6NTkgUE0maGFzaF92YWx1ZT16NmR3djgxMmVxUCttY1RiRkIwTUtnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTI1|Referer=https://www.myanmartvchannels.com/
+
 #EXTINF:-1 tvg-id="FortuneTV" tvg-name="FortuneTV" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-120x120-f49.jpg", Fortune TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
 https://streammain.myanmartvchannels.com:999/website-fortune-stream/website-fortune-stream/chunks.m3u8?nimblesessionid=312553&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6MTI6MzcgUE0maGFzaF92YWx1ZT1vSndhTXBsVVVZZTJtb1czeldQRGZBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ1|Referer=https://www.myanmartvchannels.com/
@@ -5267,9 +5261,25 @@ https://5a13fe32ef748.streamlock.net/mmplay/mitv/chunklist_w952137990.m3u8?wmsAu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6MTk6NTkgUE0maGFzaF92YWx1ZT02Ujg2NlJlV0RNeFN0RU5vdlAzc09RPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTI4|Referer=https://www.myanmartvchannels.com/
 
-#EXTINF:-1 tvg-id="channel 9" tvg-name="Channel 9 HD" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-d4b.jpg", Channel 9
+#EXTINF:-1 tvg-id="YTV" tvg-name="YTV" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/ytv-120x120-a6a.jpg", YTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
-https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/chunks.m3u8?nimblesessionid=312525&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDQ6NTM6MTMgUE0maGFzaF92YWx1ZT1GeC82L0pSUGx0djQ2Z0pkMDczNWhnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3|Referer=https://www.myanmartvchannels.com/
+https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/chunks.m3u8?nimblesessionid=312570&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6Mjg6NTMgUE0maGFzaF92YWx1ZT1sR0xCeGJpYWIzRWYxOVpkM3F1UzNRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTM3|Referer=https://www.myanmartvchannels.com/
+
+#EXTINF:-1 tvg-id="MRTV-4 HD" tvg-name="MRTV-4 HD" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-120x120-81c.jpg", MRTV-4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w685729405.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6MzE6MDggUE0maGFzaF92YWx1ZT05RGlSTmtQT0FZK2ZQb1UvOWU4V1JBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEz|Referer=https://www.myanmartvchannels.com/
+
+#EXTINF:-1 tvg-id="MaharTV.mm" tvg-logo="https://i.imgur.com/ig0QECf.png" group-title="🇲🇲Myanmar🇲🇲",Mahar TV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8|Referer=https://www.myanmartvchannels.com/
+
+#EXTINF:-1 tvg-id="mcs" tvg-logo="" group-title="🇲🇲Myanmar🇲🇲",MCS (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8|Referer=https://www.myanmartvchannels.com/
+
+#EXTINF:-1 tvg-id="MaharBawdiTV.mm" tvg-logo="https://i.imgur.com/lV7WEVs.png" group-title="🇲🇲Myanmar🇲🇲",Mahar Bawdi TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
+https://pp-live.b-cdn.net/bcdn_token=beSu4FVoizjK8WtBHZyXsGH-Xv5pbAnjeRKbjOdtzsE&expires=1706035425&token_path=%2FLiveApp%2F/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8|Referer=https://pyoneplay.com
 
 #EXTINF:-1 group-title="SkyGroup" tvg-id="" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt6c48136cb0a839da/6538cedc1def436082b7aa0f/Sky_Arts_Logo.png",Sky Arts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5318,17 +5328,17 @@ https://linear035-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/c
 #KODIPROP:inputstream.adaptive.license_key=000551dd6a872e5c39a76f48db2da7c9:f8f0ca6ad25b45fafe3d77fd6dbdcfc7
 http://linear016-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(skycinemascifi)/manifest_sd.mpd
 
-#EXTINF:-1 tvg-id="SkyAtlantic" tvg-logo="https://i.postimg.cc/8CsbfS7G/download-2024-01-16-T125449-572.jpg" group-title="SkyGroup",Sky Atlantic UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-https://webudit.webhd.ru/lb/premium362/index.m3u8
-
 #EXTINF:-1 tvg-id="Sky Sci-Fi HD" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2022/07/logo-SKY-SCIFI-WEBSITE-CHANNEL-PAGE.png" group-title="SkyGroup", Sky Sci-Fi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00058f61073607dd9d0430014ba22538:ebffc7aac38bb87da6870a73cb60a8a9
 http://linear016-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(skyscifi)/manifest_sd.mpd
+
+#EXTINF:-1 tvg-id="SkyAtlantic" tvg-logo="https://i.postimg.cc/8CsbfS7G/download-2024-01-16-T125449-572.jpg" group-title="SkyGroup",Sky Atlantic UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+https://webudit.webhd.ru/lb/premium362/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
@@ -5360,7 +5370,3 @@ https://korhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PersianaCinema.IR" tvg-logo="https://i.postimg.cc/fW9Tn6Rs/download-2024-01-23-T004908-537.jpg" group-title="Movies Campuran 2", Persiana Cinema 
 https://cinehls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="ChannelMe" tvg-name="ChannelMe" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://i.postimg.cc/25bK237g/images-12.png", Channel Me
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w317195855.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6MDI6NTkgUE0maGFzaF92YWx1ZT16NmR3djgxMmVxUCttY1RiRkIwTUtnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTI1|Referer=https://www.myanmartvchannels.com/
