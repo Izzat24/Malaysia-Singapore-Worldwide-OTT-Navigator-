@@ -5243,7 +5243,7 @@ https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w687097856.m3u8?w
 
 #EXTINF:-1 tvg-id="channel 9" tvg-name="Channel 9 HD" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-d4b.jpg", Channel 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
-https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDc6MDA6NDcgUE0maGFzaF92YWx1ZT1uNCs3ZXh1Y0JjaXFGY3QwK1pHYUFBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3|Referer=https://www.myanmartvchannels.com/
+https://streammain.myanmartvchannels.com/website-channel9-stream/website-channel9-stream/chunks.m3u8?nimblesessionid=313299&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI0IDU6MTA6MjggQU0maGFzaF92YWx1ZT0yTTVuRkdBdmVDVE1IRWVqdUxidSt3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3|https://www.myanmartvchannels.com/
 
 #EXTINF:-1 tvg-id="channelMe" tvg-name="ChannelMe" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://i.postimg.cc/25bK237g/images-12.png", Channel Me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
@@ -5251,7 +5251,7 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w317195
 
 #EXTINF:-1 tvg-id="FortuneTV" tvg-name="FortuneTV" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-120x120-f49.jpg", Fortune TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
-https://streammain.myanmartvchannels.com:999/website-fortune-stream/website-fortune-stream/chunks.m3u8?nimblesessionid=312618&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDY6NTQ6NTYgUE0maGFzaF92YWx1ZT1walp5Z0RSV2JCelh2b0VnbEVqOUVnPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ1|Referer=https://www.myanmartvchannels.com/
+https://streammain.myanmartvchannels.com/website-fortune-stream/website-fortune-stream/chunks.m3u8?nimblesessionid=313310&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI0IDU6MTQ6NTQgQU0maGFzaF92YWx1ZT16YmFSUkJHa2NLaU1jMXdkNmlhQVB3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ1|https://www.myanmartvchannels.com/
 
 #EXTINF:-1 tvg-id="MITV" tvg-name="MITV" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mitv-120x120-12c.jpg", MITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
@@ -5365,7 +5365,7 @@ https://cinehls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="YTV" tvg-name="YTV" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/ytv-120x120-a6a.jpg",YTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
-https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/chunks.m3u8?nimblesessionid=312570&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI0IDU6Mjg6NTMgUE0maGFzaF92YWx1ZT1sR0xCeGJpYWIzRWYxOVpkM3F1UzNRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTM3|Referer=https://www.myanmartvchannels.com/
+https://streammain.myanmartvchannels.com/website-ytv-stream/website-ytv-stream/chunks.m3u8?nimblesessionid=313315&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI0IDU6MTc6NTIgQU0maGFzaF92YWx1ZT1PUFVjbFFNMndxdVVCaGRLSGpoUWxBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTM3|https://www.myanmartvchannels.com/
 
 #EXTINF:-1 tvg-id="MRTV-4 HD" tvg-name="MRTV-4 HD" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-120x120-81c.jpg", MRTV-4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
@@ -5415,8 +5415,8 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
 
-#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTES", ESPN 🇦🇷
+#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Sports Campuran 2", ESPN 🇦🇷
 http://167.250.135.246:81/play/a05i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn4.webp" group-title="ARGENTINA", ESPN 4 SD
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn4.webp" group-title="Sports Campuran 2", ESPN 4 SD
 http://138.59.177.34:8000/play/a06v/index.m3u8
