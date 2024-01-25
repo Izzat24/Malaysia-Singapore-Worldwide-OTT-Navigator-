@@ -5760,3 +5760,9 @@ https://webudit.webhd.ru/lb/premium289/index.m3u8|Referer=https://weblivehdplay.
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium290/index.m3u8|Referer=https://weblivehdplay.ru 
+
+#EXTINF:-1 tvg-id="The Witch Part 1" tvg-logo="https://i.postimg.cc/Bv1X548f/download-2024-01-25-T221705-228.jpg" group-title="Korean Movies", The Witch Part 1 - The Subversion (2018)
+https://stream.hownetwork.xyz/xxx/the-witch-part-1-the-subversion-manyeo-2018-bluray/11/480.m3u8|Referer=https://stream.hownetwork.xyz 
+
+#EXTINF:-1 tvg-id="The Witch Part 2" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2022/07/film-the-witch-part-2-the-other-one-the-witch-part-2-2022-lk21-d21.jpg" group-title="Korean Movies", The Witch Part 2 - The Other One (2023)
+https://stream.hownetwork.xyz/xxx/the-witch-part-2-the-other-one-the-witch-part-2-2022-bluray/3/480.m3u8|Referer=https://stream.hownetwork.xyz 
