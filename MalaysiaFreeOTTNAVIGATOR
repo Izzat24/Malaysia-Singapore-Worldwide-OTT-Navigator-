@@ -5766,3 +5766,17 @@ https://stream.hownetwork.xyz/xxx/the-witch-part-1-the-subversion-manyeo-2018-bl
 
 #EXTINF:-1 tvg-id="The Witch Part 2" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2022/07/film-the-witch-part-2-the-other-one-the-witch-part-2-2022-lk21-d21.jpg" group-title="Korean Movies", The Witch Part 2 - The Other One (2023)
 https://stream.hownetwork.xyz/xxx/the-witch-part-2-the-other-one-the-witch-part-2-2022-bluray/3/480.m3u8|Referer=https://stream.hownetwork.xyz 
+
+#EXTINF:-1 tvg-id="Sky Cinema Selects" tvg-logo="https://i.postimg.cc/gkQJc0xQ/download-2024-01-26-T124249-690.jpg" group-title="SkyGroup", Sky Cinema Selects 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00031b645bf01d68384392eec6514cbf:dc52444bc93100d0c62db6367f13c3e4
+http://linear016-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(skycinemaselect)/manifest_sd.mpd
+
+#EXTINF:-1 tvg-id="Sky Cinema Thriller" tvg-logo="https://i.postimg.cc/VN1z50mG/download-2024-01-26-T124342-095.jpg" group-title="SkyGroup", Sky Cinema Thriller 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003b31d7cc35a3ff7f4de6d8b0933e2:e0df48d6add80135b63650420927701d
+http://linear015-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(skycinemathriller)/manifest_sd.mpd
