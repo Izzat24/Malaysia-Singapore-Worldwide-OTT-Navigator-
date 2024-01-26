@@ -5780,3 +5780,6 @@ http://linear016-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/ch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0003b31d7cc35a3ff7f4de6d8b0933e2:e0df48d6add80135b63650420927701d
 http://linear015-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/channel(skycinemathriller)/manifest_sd.mpd
+
+#EXTINF:-1 tvg-id="Sky Sports News" tvg-logo="https://i.postimg.cc/rmv5Zr4C/images-13.jpg" group-title="Sports Campuran 2", Sky Sports News
+http://andhablfus.online:2082/P23005715/Txp52LyZwvPw/415106
