@@ -5767,7 +5767,7 @@ https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8|Refere
 https://stream.hownetwork.xyz/xxx/sakra-2023-bluray/11/480.m3u8|Referer=https://stream.hownetwork.xyz 
 
 #EXTINF:-1 tvg-id="KTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg/800px-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg" group-title="Testing Channel", KTV 2
-https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8?p=48&s=1706287730&e=1706374130&cf=1706374130&h=23f4d9f7809e4449c69029bf561c16a7&hs=1986382905|Referer=https://www.elahmad.com
+http://www.elahmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtv2&t=d16c8a374c46d645250459b94231df9b|Referer=https://www.elahmad.com
 
 #EXTINF:-1 tvg-id="MBC2" tvg-logo="https://i.postimg.cc/63WyxHDV/download-2024-01-27-T160849-151.jpg" group-title="Testing Channel", MBC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36
@@ -5833,3 +5833,6 @@ http://vo01.mohdtv.com:8880/live/ALLChannelsD8BE651451BB/96842653/60958.m3u8
 
 #EXTINF:-1 tvg-id="FoxActionMovies" tvg-logo="https://i.postimg.cc/cJhnr4F8/download-78.png" group-title="Movies Campuran",Fox Action Movies 
 http://otv.ftpbd.net:8082/Fox-Cartoon-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MBCVARIETY" tvg-logo="https://i.postimg.cc/8PhVpKNz/download-2024-01-29-T044403-594.jpg" group-title="Testing Channel", MBC VARIETY 
+https://cdn1.ipslow.com/tv522_www.elahmad.com_mbc_variety/index.m3u8?token=aca901fa56dc21f819a9319c70db7ed0ece126e5-ff3b3c9bd899af95947e6c15f6e865ae-1706484961-1706474161|Referer=https://www.elahmad.com 
