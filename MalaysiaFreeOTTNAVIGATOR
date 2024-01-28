@@ -9,6 +9,9 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_MY.xml"
 
 ______________________________________________
+#EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/dt1PqqK3/download-2024-01-28-T202111-599.jpg" group-title="Asian World Cup Qatar 2023",Bein Sports Asian Cup 
+https://sportsleading.online/live/stream_5.m3u8
+
 #EXTINF:-1, group-title="NjoiFree" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
