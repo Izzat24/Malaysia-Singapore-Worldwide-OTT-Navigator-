@@ -9,6 +9,14 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_MY.xml"
 
 ______________________________________________
+
+#EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/J0fhksqM/download-2024-01-28-T220736-947.png" group-title="Kids",Cartoon Network HD India
+http://4ksuper.live:80/live/nilsson/nilsson/1110636.ts
+
+#EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/Kjz9MzYq/download-2024-01-28-T220803-711.png" group-title="Kids",Nick Plus HD
+http://4ksuper.live:80/live/nilsson/nilsson/282630.ts
+
+
 #EXTINF:-1, group-title="NjoiFree" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
@@ -5772,31 +5780,31 @@ http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8|Referer=https://www.elahmad
 #EXTINF:-1 tvg-id="A2Z" tvg-logo="https://i.postimg.cc/fyzC6qs6/download-56.jpg" group-title="🇵🇭 PHILIPINES🇵🇭",A2Z CHANNEL 11
 http://skyvisiontv@4ksuper.live:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926206&extension=ts&play_token=PvlTiSAjgA
 
-#EXTINF:-1 tvg-id="GMAPINOY" tvg-logo="https://i.postimg.cc/jdkcFhFF/download-55.jpg" group-title="🇵🇭PHILIPINES🇵🇭",GMA PINOY
+#EXTINF:-1 tvg-id="GMAPINOY" tvg-logo="https://i.postimg.cc/jdkcFhFF/download-55.jpg" group-title="🇵🇭 PHILIPINES🇵🇭",GMA PINOY
 http://4ksuper.live:80/live/nilsson/nilsson/223027.ts
 
-#EXTINF:-1 tvg-id="GMALIFE" tvg-logo="https://i.postimg.cc/wxwQ1Vgj/download-54.jpg" group-title="🇵🇭PHILIPINES🇵🇭",GMA LIFE
+#EXTINF:-1 tvg-id="GMALIFE" tvg-logo="https://i.postimg.cc/wxwQ1Vgj/download-54.jpg" group-title="🇵🇭 PHILIPINES🇵🇭",GMA LIFE
 http://4ksuper.live:80/live/nilsson/nilsson/223021.ts
 
-#EXTINF:-1 tvg-id="TV5" tvg-logo="https://i.postimg.cc/RZH7bxfW/download-68.png" group-title="🇵🇭PHILIPINES🇵🇭",TV5
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://i.postimg.cc/RZH7bxfW/download-68.png" group-title="🇵🇭 PHILIPINES🇵🇭",TV5
 http://4ksuper.live:80/live/nilsson/nilsson/926150.ts
 
-#EXTINF:-1, group-title="🇵🇭PHILIPINES🇵🇭" tvg-id="" tvg-logo="https://i.postimg.cc/tgvBgXDq/download-2024-01-28-T083120-121.jpg",TFC GUAM
+#EXTINF:-1, group-title="🇵🇭 PHILIPINES🇵🇭" tvg-id="" tvg-logo="https://i.postimg.cc/tgvBgXDq/download-2024-01-28-T083120-121.jpg",TFC GUAM
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 
-#EXTINF:-1, group-title="🇵🇭Philipines🇵🇭" tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images//TAP%20ACTION%20FLIX%20BLUE%20LOGO%20HIGH%20RES.png",Tap Action Flix HD
+#EXTINF:-1, group-title="🇵🇭 PHILIPINES🇵🇭" tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images//TAP%20ACTION%20FLIX%20BLUE%20LOGO%20HIGH%20RES.png",Tap Action Flix HD
 http://4ksuper.live:80/live/nilsson/nilsson/926149.ts
 
-#EXTINF:-1, group-title="🇵🇭Philipines🇵🇭" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/57/TAP_Edge_Logo_November_2020.png/revision/latest?cb=20220402104521",Tap Edge Channel
+#EXTINF:-1, group-title="🇵🇭 PHILIPINES🇵🇭" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/57/TAP_Edge_Logo_November_2020.png/revision/latest?cb=20220402104521",Tap Edge Channel
 http://mix-dns.com:8080/kmcneill65@comcast.net/vDmyPDxBya/558747
 
-#EXTINF:-1, group-title="🇵🇭Philipines🇵🇭" tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images//TAP%20MOVIES%20LOGO.png",TAP Movies HD
+#EXTINF:-1, group-title="🇵🇭 PHILIPINES🇵🇭" tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images//TAP%20MOVIES%20LOGO.png",TAP Movies HD
 http://4ksuper.live:80/live/nilsson/nilsson/926152.ts
 
-#EXTINF:-1, group-title="🇵🇭Philipines🇵🇭" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png",Tap Sports
+#EXTINF:-1, group-title="🇵🇭 PHILIPINES🇵🇭" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png",Tap Sports
 http://mix-dns.com:8080/kmcneill65@comcast.net/vDmyPDxBya/558746
 
-#EXTINF:-1, group-title="🇵🇭Philipines🇵🇭" tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images//TAP%20TV%20OFFICIAL%20LOGO.png",TAP TV
+#EXTINF:-1, group-title="🇵🇭 PHILIPINES🇵🇭" tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images//TAP%20TV%20OFFICIAL%20LOGO.png",TAP TV
 http://mix-dns.com:8080/kmcneill65@comcast.net/vDmyPDxBya/558750
 
 #EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/dt1PqqK3/download-2024-01-28-T202111-599.jpg" group-title="Asian World Cup Qatar 2023",Bein Sports Asian Cup 
@@ -5825,11 +5833,3 @@ http://vo01.mohdtv.com:8880/live/ALLChannelsD8BE651451BB/96842653/60958.m3u8
 
 #EXTINF:-1 tvg-id="FoxActionMovies" tvg-logo="https://i.postimg.cc/cJhnr4F8/download-78.png" group-title="Movies Campuran",Fox Action Movies 
 http://otv.ftpbd.net:8082/Fox-Cartoon-HD/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/J0fhksqM/download-2024-01-28-T220736-947.png" group-title="Kids",Cartoon Network HD India
-http://4ksuper.live:80/live/nilsson/nilsson/1110636.ts
-
-#EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/Kjz9MzYq/download-2024-01-28-T220803-711.png" group-title="Kids",Nick Plus HD
-http://4ksuper.live:80/live/nilsson/nilsson/282630.ts
-
