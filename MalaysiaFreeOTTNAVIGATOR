@@ -4181,12 +4181,12 @@ https://webudit.webhd.ru/lb/premium45/index.m3u8
 #EXTINF:-1 group-logo ="https://i.postimg.cc/SsRsgmsk/download-2024-01-05-T064012-440.png" group-title="🇬🇧UK LOCAL🇬🇧" tvg-id="RTEONE.UK" tvg-logo="https://i.postimg.cc/kgwqzLL4/download-2024-01-05-T063643-928.png",RTE ONE UK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://01.webhd.ru/ddh2/premium364/tracks-v1a1/mono.m3u8
+https://webudit.webhd.ru/lb/premium364/index.m3u8
 
 #EXTINF:-1 group-logo ="https://i.postimg.cc/SsRsgmsk/download-2024-01-05-T064012-440.png" group-title="🇬🇧UK LOCAL🇬🇧" tvg-id="RTETWO.UK" tvg-logo="https://i.postimg.cc/zvpx8SNn/download-2024-01-05-T063807-790.png",RTE TWO UK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium365/index.m3u8|Referer:https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium365/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysian Movies" tvg-logo="https://i.postimg.cc/25HjK2Hn/download-2024-01-05-T223012-751.jpg",Gemencheh Boys 2023
@@ -4457,7 +4457,7 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 #EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/pRyaqIi.png" group-title="TV DAERAH",Banyumas TV (720p) [Geo-blocked]
 https://v2.siar.us/bmstv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="Undefined",Banten TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BantenTV.id" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="TVDAERAH",Banten TV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BalikapanTV.id" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="TV DAERAH",Balikapan TV (720p)
@@ -5221,18 +5221,6 @@ https://r.mjh.nz/PlutoTV/646cc5dfee6a2f000830943e-alt.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.postimg.cc/DZ5NXwb9/download-53.jpg" group-title="🇹🇭Thailand🇹🇭",ALTV4 
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A2Z" tvg-logo="https://i.postimg.cc/fyzC6qs6/download-56.jpg" group-title="PHILIPINES LOCAL",A2Z CHANNEL 11
-http://skyvisiontv@4ksuper.live:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926206&extension=ts&play_token=PvlTiSAjgA
-
-#EXTINF:-1 tvg-id="GMAPINOY" tvg-logo="https://i.postimg.cc/jdkcFhFF/download-55.jpg" group-title="PHILIPINES LOCAL",GMA PINOY
-http://iptvtree.net:8080/67e74f3b/fa47f96243/147238
-
-#EXTINF:-1 tvg-id="GMALIFE" tvg-logo="https://i.postimg.cc/wxwQ1Vgj/download-54.jpg" group-title="PHILIPINES LOCAL",GMA LIFE
-http://iptvtree.net:8080/67e74f3b/fa47f96243/144867
-
-#EXTINF:-1 tvg-id="TV5" tvg-logo="https://i.postimg.cc/RZH7bxfW/download-68.png" group-title="PHILIPINES LOCAL",TV5
-http://iptvtree.net:8080/67e74f3b/fa47f96243/266852
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Ss3StjnK/5plus-120x120-369.jpg" group-title="🇲🇲Myanmar🇲🇲",5Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w193492443.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMC8yMDI0IDY6MjY6MTkgQU0maGFzaF92YWx1ZT1JcnpPVFEySlJkcEFIaDZFRHZ1akp3PT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEy|Referer=https://www.myanmartvchannels.com/
@@ -5745,22 +5733,22 @@ http://linear016-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/ch
 #EXTINF:-1 tvg-id="SportsTV1" tvg-logo="https://i.postimg.cc/k4rWVHHX/download-2024-01-25-T184513-130.png" group-title="Sports Campuran 2", Sports TV1 (Portugal)
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium49/index.m3u8 
+https://webudit.webhd.ru/lb/premium49/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV2" tvg-logo="https://i.postimg.cc/Z5HwkJCt/images-13.png" group-title="Sports Campuran 2", Sports TV2 (Portugal)
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium74/index.m3u8 
+https://webudit.webhd.ru/lb/premium74/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV3" tvg-logo="https://i.postimg.cc/NFPpyDvs/download-2024-01-25-T184932-903.png" group-title="Sports Campuran 2", Sports TV3 (Portugal)
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium454/index.m3u8 
+https://webudit.webhd.ru/lb/premium454/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV4" tvg-logo="https://i.postimg.cc/rwb26GdL/images-14.png" group-title="Sports Campuran 2", Sports TV4 (Portugal)
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium289/index.m3u8 
+https://webudit.webhd.ru/lb/premium289/index.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV5" tvg-logo="https://i.postimg.cc/SR5H0ksf/download-2024-01-25-T185145-714.png" group-title="Sports Campuran 2", Sports TV5 (Portugal)
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
@@ -5795,3 +5783,26 @@ https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8|Refere
 
 #EXTINF:-1 tvg-id="Sakra" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/02/film-sakra-2023-lk21-d21.jpg" group-title="Chinese Movies", Sakra (2023)
 https://stream.hownetwork.xyz/xxx/sakra-2023-bluray/11/480.m3u8|Referer=https://stream.hownetwork.xyz 
+
+#EXTINF:-1 tvg-id="KTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg/800px-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg" group-title="Testing Channel", KTV 2
+https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8?p=48&s=1706287730&e=1706374130&cf=1706374130&h=23f4d9f7809e4449c69029bf561c16a7&hs=1986382905|Referer=https://www.elahmad.com
+
+#EXTINF:-1 tvg-id="MBC2" tvg-logo="https://i.postimg.cc/63WyxHDV/download-2024-01-27-T160849-151.jpg" group-title="Testing Channel", MBC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36
+http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/191.m3u8|Referer=https://www.elahmad.com
+
+#EXTINF:-1 tvg-id="MBCAction" tvg-logo="https://i.postimg.cc/pdnwC8kD/download-2024-01-27-T161858-772.jpg" group-title="Testing Channel", MBC Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8|Referer=https://www.elahmad.com 
+
+#EXTINF:-1 tvg-id="A2Z" tvg-logo="https://i.postimg.cc/fyzC6qs6/download-56.jpg" group-title="PHILIPINES LOCAL",A2Z CHANNEL 11
+http://skyvisiontv@4ksuper.live:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926206&extension=ts&play_token=PvlTiSAjgA
+
+#EXTINF:-1 tvg-id="GMAPINOY" tvg-logo="https://i.postimg.cc/jdkcFhFF/download-55.jpg" group-title="PHILIPINES LOCAL",GMA PINOY
+http://iptvtree.net:8080/67e74f3b/fa47f96243/147238
+
+#EXTINF:-1 tvg-id="GMALIFE" tvg-logo="https://i.postimg.cc/wxwQ1Vgj/download-54.jpg" group-title="PHILIPINES LOCAL",GMA LIFE
+http://iptvtree.net:8080/67e74f3b/fa47f96243/144867
+
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://i.postimg.cc/RZH7bxfW/download-68.png" group-title="PHILIPINES LOCAL",TV5
+http://iptvtree.net:8080/67e74f3b/fa47f96243/266852
