@@ -5835,4 +5835,4 @@ http://vo01.mohdtv.com:8880/live/ALLChannelsD8BE651451BB/96842653/60958.m3u8
 http://otv.ftpbd.net:8082/Fox-Cartoon-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MBCVARIETY" tvg-logo="https://i.postimg.cc/8PhVpKNz/download-2024-01-29-T044403-594.jpg" group-title="Testing Channel", MBC VARIETY 
-https://cdn1.ipslow.com/tv522_www.elahmad.com_mbc_variety/index.m3u8?token=aca901fa56dc21f819a9319c70db7ed0ece126e5-ff3b3c9bd899af95947e6c15f6e865ae-1706484961-1706474161|Referer=https://www.elahmad.com 
+http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:20:73&stream=15072&extension=ts&play_token=utT29E84jC865ae-1706484961-1706474161|Referer=https://www.elahmad.com 
