@@ -285,8 +285,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-title="Astroxx", OASIS HD
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
-#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Astroxx",WARNA HD (Temporary)
-http://startv365.com//live/D85A79B4/55A7743D/191874.ts
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Astroxx",WARNA HD (Temporary 1Days)
+https://hls.ulivetv.net/v/live/d839y3wfvxmo.m3u8?stream_id=d839y3wfvxmo&timestamp=1706635764&rand=kE2pRhJa33&uuid=1jnjQWckeoDP8U2Ze8xQ2z&from=web&sign=e6256c20717384b9256ea0600cb5f7fd&stream_id=d839y3wfvxmo|Referer=https://histar.tv 
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Astroxx",Citra HD (Temporary)
 http://metatvpro.com:25461//live/W1808/1109/17.ts 
@@ -310,7 +310,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd 
 
 #EXTINF:-1 tvg-id="Vellithirai" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Vellithirai
-http://toh-users.xyz:8080/crawfordlarry822@aol.com/65du4S6viT/798426
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
+https://hls.ulivetv.net/v/live/d83aby7mo3r4.m3u8?stream_id=d83aby7mo3r4&timestamp=1706634794&rand=kYY4ua5cCn&uuid=vM4udTk6z29AGRUFpTTVBe&from=web&sign=b58e6ede0b779faef35c25e2fe0582a1&stream_id=d83aby7mo3r4|Referer=https://histar.tv 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5835,4 +5836,4 @@ http://vo01.mohdtv.com:8880/live/ALLChannelsD8BE651451BB/96842653/60958.m3u8
 http://otv.ftpbd.net:8082/Fox-Cartoon-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MBCVARIETY" tvg-logo="https://i.postimg.cc/8PhVpKNz/download-2024-01-29-T044403-594.jpg" group-title="Testing Channel", MBC VARIETY 
-http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:20:73&stream=15072&extension=ts&play_token=utT29E84jC865ae-1706484961-1706474161|Referer=https://www.elahmad.com 
+http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:20:73&stream=15072&extension=ts&play_token=utT29E84jC 
