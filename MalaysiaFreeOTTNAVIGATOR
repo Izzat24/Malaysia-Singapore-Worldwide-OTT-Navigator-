@@ -5837,3 +5837,72 @@ http://otv.ftpbd.net:8082/Fox-Cartoon-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MBCVARIETY" tvg-logo="https://i.postimg.cc/8PhVpKNz/download-2024-01-29-T044403-594.jpg" group-title="Testing Channel", MBC VARIETY 
 http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:20:73&stream=15072&extension=ts&play_token=utT29E84jC 
+
+#EXTINF:-1 tvg-id="" tvg-name="IR011:GEM Academy" tvg-logo="" group-title="Gem Iran",IR011:GEM Academy
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50104.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR012:Gem Arabic" tvg-logo="" group-title="Gem Iran",IR012:Gem Arabic
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50103.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR013:GEM AZ" tvg-logo="" group-title="Gem Iran",IR013:GEM AZ
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50102.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR014:GEM Bollywood" tvg-logo="" group-title="Gem Iran",IR014:GEM Bollywood
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50101.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR015:GEM Drama" tvg-logo="" group-title="Gem Iran",IR015:GEM Drama
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50100.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR016:GEM Drama+" tvg-logo="" group-title="Gem Iran",IR016:GEM Drama+
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50099.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR017:GEM Food" tvg-logo="" group-title="Gem Iran",IR017:GEM Food
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50098.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR018:GEM Junior" tvg-logo="" group-title="Gem Iran",IR018:GEM Junior
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50097.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR021:GEM onyx" tvg-logo="" group-title="Gem Iran",IR021:GEM onyx
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50094.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR023:GEM River" tvg-logo="" group-title="Gem Iran",IR023:GEM River
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50092.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR038:GEM Property" tvg-logo="" group-title="Gem Iran",IR038:GEM Property
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50077.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR045:GEM 24B" tvg-logo="" group-title="Gem Iran",IR045:GEM 24B
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50070.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR050:GEM DRAMA" tvg-logo="" group-title="Gem Iran",IR050:GEM DRAMA
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50045.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR051:GEM Film" tvg-logo="" group-title="Gem Iran",IR051:GEM Film
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50044.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR052:GEM Junior" tvg-logo="" group-title="Gem Iran",IR052:GEM Junior
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50043.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR053:GEM Kids" tvg-logo="" group-title="Gem Iran",IR053:GEM Kids
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50042.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR055:Gem Life" tvg-logo="" group-title="Gem Iran",IR055:Gem Life
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50040.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR056:GEM MIFA" tvg-logo="" group-title="Gem Iran",IR056:GEM MIFA
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50039.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR057:Gem Rubix" tvg-logo="" group-title="Gem Iran",IR057:Gem Rubix
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50038.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR059:Gem Series" tvg-logo="" group-title="Gem Iran",IR059:Gem Series
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50036.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR060:Gem Series Plus" tvg-logo="" group-title="Gem Iran",IR060:Gem Series Plus
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50035.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR061:GEM Travel" tvg-logo="" group-title="Gem Iran",IR061:GEM Travel
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50034.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IR062:Gem TV" tvg-logo="" group-title="Gem Iran",IR062:Gem TV
+http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50033.m3u8
