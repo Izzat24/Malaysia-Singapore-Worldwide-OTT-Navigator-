@@ -365,7 +365,7 @@ https://hls.ulivetv.net/v/live/d83aecvncc1s.m3u8?stream_id=d83aecvncc1s&timestam
 #EXTINF:-1 tvg-id="SunLife" tvg-name="Sun Life" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png",Sun Life CH217
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5089/default.mpd
 
-#EXTINF:-1 tvg-id="KTV" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",KTV
+#EXTINF:-1 tvg-id="KTV" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/f/f4/%E0%AE%95%E0%AF%87_%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF.gif",KTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
 https://hls.ulivetv.net/v/live/d83aeqzh76rk.m3u8?stream_id=d83aeqzh76rk&timestamp=1705306840&rand=L7LzVND2YB&uuid=cS65HFB3fB2wWDzX39DAMT&from=web&sign=1d1427ab21fae904dbf8ec71dfef598e&stream_id=d83aeqzh76rk|Referer=https://histar.tv 
 
@@ -5215,7 +5215,7 @@ https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w687097856.m3u8?w
 
 #EXTINF:-1 tvg-id="channel 9" tvg-name="Channel 9 HD" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-d4b.jpg", Channel 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
-https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIwIDE6MDY6MjAgUE0maGFzaF92YWx1ZT1XeVNiRmx6OTVuK2Mxemg5Nlp1NFJnPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTE1|Referer=https://www.myanmartvchannels.com/
+https://streammain.myanmartvchannels.com:999/website-channel9-stream/website-channel9-stream/chunks.m3u8?nimblesessionid=394045&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDI0IDEwOjE5OjM1IFBNJmhhc2hfdmFsdWU9VFNUeW5lZXdHZ1hobzNzTlpuOU9Fdz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj00Nw==|Referer=https://www.myanmartvchannels.com/
 
 #EXTINF:-1 tvg-id="channelMe" tvg-name="ChannelMe" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://i.postimg.cc/25bK237g/images-12.png", Channel Me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
@@ -5337,7 +5337,7 @@ https://cinehls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="YTV" tvg-name="YTV" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/ytv-120x120-a6a.jpg",YTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
-https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNC8yMDI0IDI6MjE6NDkgUE0maGFzaF92YWx1ZT1KNUlnbGRBNlJnSlBZVytHNGVZeE1BPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTM3|Referer=https://myanmartvchannel.com/
+https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDI0IDEwOjI0OjA2IFBNJmhhc2hfdmFsdWU9dkVlaFRsTFlUL3Z4WkMyVmN2VHZkdz09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0zNw==|Referer=https://myanmartvchannel.com/
 
 #EXTINF:-1 tvg-id="MRTV-4 HD" tvg-name="MRTV-4 HD" group-title="🇲🇲Myanmar🇲🇲"  tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-120x120-81c.jpg", MRTV-4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; 220733SG Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.45 Mobile Safari/537.36
@@ -5768,7 +5768,7 @@ https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8|Refere
 https://stream.hownetwork.xyz/xxx/sakra-2023-bluray/11/480.m3u8|Referer=https://stream.hownetwork.xyz 
 
 #EXTINF:-1 tvg-id="KTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg/800px-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg" group-title="Testing Channel", KTV 2
-http://www.elahmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtv2&t=d16c8a374c46d645250459b94231df9b|Referer=https://www.elahmad.com
+http://www.elahmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtv2&t=44f1198d11131a6b221623bd4ca936a9|Referer=https://www.elahmad.com
 
 #EXTINF:-1 tvg-id="MBC2" tvg-logo="https://i.postimg.cc/63WyxHDV/download-2024-01-27-T160849-151.jpg" group-title="Testing Channel", MBC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36
