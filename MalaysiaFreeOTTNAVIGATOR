@@ -9,7 +9,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_MY.xml"
 
 ______________________________________________
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGznvg9d/525-144.png", Long Long Fun HD (Channel 100)
+#EXTINF:-1, tvg-id="LongLongFunHD" tvg-name="LongLongFunHD" tvg-logo="https://i.postimg.cc/hGznvg9d/525-144.png" group-title="New Channel",Long Long Fun HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1710fd0de6f0939d3d7fd4c67f7dc410:bc06c86c2657db6521e2d880e7790a9f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5112/default_primary.mpd
