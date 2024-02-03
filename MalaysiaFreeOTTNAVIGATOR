@@ -10,6 +10,12 @@
 
 ______________________________________________
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1710fd0de6f0939d3d7fd4c67f7dc410:bc06c86c2657db6521e2d880e7790a9f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGznvg9d/525-144.png", group-title="New Channel" Long Long Fun HD (Channel 100)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5112/default_primary.mpd
+
 #EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/J0fhksqM/download-2024-01-28-T220736-947.png" group-title="Kids",Cartoon Network HD India
 http://4ksuper.live:80/live/nilsson/nilsson/1110636.ts
 
