@@ -5991,3 +5991,9 @@ https://webudit.webhd.ru/lb/premium61/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium90/index.m3u8
+
+#EXTINF:-1 tvg-id="Tigers2023" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-tiger-3-2023-lk21-d21.jpg" group-title="India Movies",Tigers 3 (2023)
+https://sekedarinfo.skin/xxx/tiger-3-2023-webdl_X_e9a71c29/19/480.m3u8|Referer=https://sekedarinfo.skin
+
+#EXTINF:-1 tvg-id="TheBeeKeeper2024" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-the-beekeeper-2024-lk21-d21.jpg" group-title="English Movies",The Beekeeper (2023)
+https://jujijaji.pics/xxx/the-beekeeper-2024-webdl_X_9aa0d5fe/20/480.m3u8|Referer=https://jujijaji.pics
