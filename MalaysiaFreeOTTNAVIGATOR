@@ -272,8 +272,11 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #EXTINF:-1 group-title="🇸🇬Singapore🇸🇬" tvg-id="1002" tvg-chno="1002" tvg-logo="https://i.postimg.cc/0NQWcf6q/download-73.png",CNA
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
-#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="104",104 Digital Ria FHD (Temporary)
+#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="104",104 Digital Ria FHD (Temporary) (A)
 http://startv365.com//live/D85A79B4/55A7743D/79321.ts
+
+#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="104",104 Digital Ria FHD (Temporary) (B)
+https://ktpremium.com:443/live/K4060/5215/912833.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -290,10 +293,10 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Astroxx",WARNA HD (Temporary 1Days)
-https://hls.ulivetv.net/v/live/d839y3wfvxmo.m3u8?stream_id=d839y3wfvxmo&timestamp=1706635764&rand=kE2pRhJa33&uuid=1jnjQWckeoDP8U2Ze8xQ2z&from=web&sign=e6256c20717384b9256ea0600cb5f7fd&stream_id=d839y3wfvxmo|Referer=https://histar.tv 
+https://ktpremium.com:443/live/K4060/5215/912836.ts
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Astroxx",Citra HD (Temporary)
-http://metatvpro.com:25461//live/W1808/1109/17.ts 
+https://ktpremium.com:443/live/K4060/5215/913177.ts 
   
 #EXTINF:-1 tvg-id="Rania" group-title="Indonesia Exclusive" ch-number="112" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Rania (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
