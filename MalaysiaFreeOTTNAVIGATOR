@@ -14,6 +14,7 @@ ______________________________________________
 #KODIPROP:inputstream.adaptive.license_key=1710fd0de6f0939d3d7fd4c67f7dc410:bc06c86c2657db6521e2d880e7790a9f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5112/default_primary.mpd
 
+
 #EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/J0fhksqM/download-2024-01-28-T220736-947.png" group-title="Kids",Cartoon Network HD India
 http://4ksuper.live:80/live/nilsson/nilsson/1110636.ts
 
@@ -293,7 +294,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Astroxx",WARNA HD (Temporary 1Days)
-https://ktpremium.com:443/live/K4060/5215/912836.ts
+https://ktpremium.com:443/live/K4060/5215/912836.ts 
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Astroxx",Citra HD (Temporary)
 https://ktpremium.com:443/live/K4060/5215/913177.ts 
@@ -1103,7 +1104,10 @@ http://9002bc70.ottrast.com/iptv/HXTW335VAVK3HG/9261/index.m3u8
 http://9002bc70.ottrast.com/iptv/HXTW335VAVK3HG/541/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MH49Tgj1/download-2024-02-05-T152020-782.png" group-title="Kids", MBC| MBC+ ANIME FHD
-http://startv365.com:80/8059765630/3322606439/39650
+http://77.137.35.165:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-id="boing.es" tvg-name="ES023:BOING" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES023MDcine.png" group-title="Kids",Boing ES
+http://162.19.18.141:49214/BOING/hls/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3534,18 +3538,6 @@ http://mega4k.net:8080/NOURBAR100CONX/VDFVRGFBFBGBGGG/40255
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13ZJgmZD/download-85.jpg" group-title="BeIN Group", Bein Sports 7 AR
 http://mega4k.net:8080/NOURBAR100CONX/VDFVRGFBFBGBGGG/40261
 
-#EXTINF:-1 tvg-id="" tvg-name="AE: MBC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d8c5c1544a3989a314def6d993573f65.png" group-title="Movies Campuran",AE: MBC 2
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=250040&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AE: MBC Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/feb2ba8f2ef1e3101c75de6065136c7f.png" group-title="Movies Campuran",AE: MBC Action
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=250046&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AE: MBC Max" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2a207175088fd9af7df7e80cdfe3a1e6.png" group-title="Movies Campuran",AE: MBC Max
-http://gamsgo.cyou:8080/732b6535/3660edeef3/1240
-
-#EXTINF:-1 tvg-id="" tvg-name="AE: MBC Variety+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/20184ff7f3ca8604094d2ecb04649d89.png" group-title="Movies Campuran",AE: MBC Variety+
-http://gamsgo.cyou:8080/732b6535/3660edeef3/1239
-
 #EXTINF:-1 tvg-id="TheHungerGames2023" tvg-name="TheHungerGames2023" tvg-logo="https://i.postimg.cc/g2f9LvVL/film-the-hunger-games-the-ballad-of-songbirds-snakes-2023-lk21-d21-jpg.jpg" group-title="English Movies",The Hunger Games:The Ballads Of Songbirds & Snakes (2023)
 https://stream.hownetwork.xyz/xxx/the-hunger-games-the-ballad-of-songbirds-snakes-2023-webdl_X_42b04af2/19/480.m3u8|referer=https://stream.hownetwork.xyz
 
@@ -4537,7 +4529,6 @@ https://webudit.webhd.ru/lb/premium33/index.m3u8
 ##EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium34/index.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -5781,8 +5772,12 @@ http://vo01.mohdtv.com:8880/live/ALLChannelsD8BE651451BB/96842653/60958.m3u8
 #EXTINF:-1 tvg-id="FoxActionMovies" tvg-logo="https://i.postimg.cc/cJhnr4F8/download-78.png" group-title="Movies Campuran",Fox Action Movies 
 http://otv.ftpbd.net:8082/Fox-Cartoon-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="MBCVARIETY" tvg-logo="https://i.postimg.cc/8PhVpKNz/download-2024-01-29-T044403-594.jpg" group-title="Testing Channel", MBC VARIETY 
+#EXTINF:-1 tvg-id="MBCVARIETY" tvg-logo="https://i.postimg.cc/8PhVpKNz/download-2024-01-29-T044403-594.jpg" group-title="Testing Channel", MBC VARIETY (A)
 http://new.dtv21.org:8080/play/live.php?mac=00:1A:79:D2:20:73&stream=15072&extension=ts&play_token=utT29E84jC 
+
+#EXTINF:-1 tvg-id="MBCVARIETY" tvg-logo="https://i.postimg.cc/8PhVpKNz/download-2024-01-29-T044403-594.jpg" group-title="Testing Channel", MBC VARIETY (B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36
+https://cdn1.ipslow.com/tv523_www.elahmad.com_mbc_variety/index.m3u8?token=05f5067b28bca8484bf243b33a036ca7685e4ac6-c7d02dde0b1cafe26f25901497e9cd79-1707153320-1707142520|Referer=https://elahmad.com
 
 #EXTINF:-1 tvg-id="" tvg-name="IR011:GEM Academy" tvg-logo="" group-title="Gem Iran",IR011:GEM Academy
 http://yesimes.oknirvana.club:8880/live/uncleREKADO/hMvjXFPHsF/50104.m3u8
@@ -5962,6 +5957,7 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/HLS/V
 
 #EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="Amarin TV" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-amarin.jpg" group-title="🇹🇭Thailand2🇹🇭", AMARIN TV (B)
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/DASH/V0017.mpd
+
 
 #EXTINF:-1 tvg-chno="35" tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-7hd.jpg" group-title="🇹🇭Thailand2🇹🇭",BBTV Channel 7
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018-avc1_5000000=7-mp4a_64000_tha=2.m3u8
