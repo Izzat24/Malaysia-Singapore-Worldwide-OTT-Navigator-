@@ -1102,7 +1102,7 @@ http://9002bc70.ottrast.com/iptv/HXTW335VAVK3HG/9261/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/Nickelodeon.png", Nickelodeon (Russian+English)
 http://9002bc70.ottrast.com/iptv/HXTW335VAVK3HG/541/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lo1.in/mbc/mbc.png" group-title="Kids", MBC| MBC+ ANIME FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MH49Tgj1/download-2024-02-05-T152020-782.png" group-title="Kids", MBC| MBC+ ANIME FHD
 http://startv365.com:80/8059765630/3322606439/39650
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
