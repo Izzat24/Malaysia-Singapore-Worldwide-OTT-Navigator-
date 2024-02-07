@@ -1390,7 +1390,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 #EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7 (B)
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="🇮🇩Indonesia🇮🇩",SCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0F6zwQ9/download-2024-02-07-T195427-627.jpg" group-title="🇮🇩Indonesia🇮🇩",SCTV
 http://startv365.com:80/D85A79B4/55A7743D/45099
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="🇮🇩Indonesia🇮🇩",Indosiar
@@ -6007,3 +6007,33 @@ https://sekedarinfo.skin/xxx/tiger-3-2023-webdl_X_e9a71c29/19/480.m3u8|Referer=h
 
 #EXTINF:-1 tvg-id="TheBeeKeeper2024" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-the-beekeeper-2024-lk21-d21.jpg" group-title="English Movies",The Beekeeper (2023)
 https://jujijaji.pics/xxx/the-beekeeper-2024-webdl_X_9aa0d5fe/20/480.m3u8|Referer=https://jujijaji.pics
+
+#EXTINF:0 tvg-id="Filmbox Premium.ro" tvg-logo="https://i.postimg.cc/9Mx3p9Hs/download-2024-02-07-T195259-079.jpg" group-title="Movies Campuran 2",RO : FILM BOX PREMIUM
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.webhd.ru/lb/19/index.m3u8
+
+#EXTINF:0 tvg-id="FETV" tvg-logo="https://i.postimg.cc/jS0f6xY4/download-2024-02-07-T201240-125.png" group-title="Movies Campuran 2",FETV:The Family Entertainment TV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.webhd.ru/lb/premium751/index.m3u8
+
+#EXTINF:0 tvg-id="FXMOVIES" tvg-logo="https://i.postimg.cc/SRskBMFb/download-2024-02-07-T201559-996.png" group-title="Movies Campuran 2",FX MOVIES 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.webhd.ru/lb/premium381/index.m3u8
+
+#EXTINF:0 tvg-id="C More Hits Sweden" tvg-logo="https://i.postimg.cc/YS98Z6bx/download-2024-02-07-T202504-748.png" group-title="Movies Campuran 2",C More Hits Sweden
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.webhd.ru/lb/premium813/index.m3u8
+
+#EXTINF:0 tvg-id="Lifetime Movies Network HD" tvg-logo="https://i.postimg.cc/HL8dwPfG/download-2024-02-07-T203447-947.png" group-title="Movies Campuran 2",Lifetime Movies Network HD
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.webhd.ru/lb/premium389/index.m3u8
+
+#EXTINF:0 tvg-id="MeTV" tvg-logo="https://i.postimg.cc/CxQcH7qk/download-2024-02-07-T203946-707.jpg" group-title="Movies Campuran 2",MeTV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://02-24.webhd.ru/ddy3/premium662/tracks-v1a1/mono.m3u8
