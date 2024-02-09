@@ -6057,7 +6057,7 @@ https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 #KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
 https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
 
-#EXTINF:-1 tvg-id="comedy.central.it" tvg-name="IT007:COMEDY CENTRAL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT007" group-title="",COMEDY CENTRAL 
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-name="IT007:COMEDY CENTRAL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT007" group-title="Movies Campuran 2",COMEDY CENTRAL 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8757de5a495ce5db4893c2eefc11e58:d8309cd9fa8c286f277b4cb9841d7bd2
 https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.mpd
@@ -6067,7 +6067,7 @@ https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.m
 #KODIPROP:inputstream.adaptive.license_key=6ae50bb56203f2f3875e3ee78efab1a5:f22429107ea7806f54902bb2926c8872
 https://ott.zapitv.com/live/eds_c2/calle_13/dash_live_enc/calle_13.mpd
 
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT065SYFY.png" group-title="Movies Campuran",SYFY 
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT065SYFY.png" group-title="Movies Campuran 2",SYFY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
 https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
