@@ -6041,3 +6041,41 @@ https://02-24.webhd.ru/ddy3/premium662/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.144 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://muzikfmrtm.com/
 https://stream.muzikfmrtm.com/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies Campuran 2" tvg-logo="https://en.m.wikipedia.org/wiki/File:AXN_logo_(2015).svg",AXN 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17b4b5cdbb271e7f6d97e38a04a2d27f:75aef15c20e7a17c64b71d2f840a6f5d
+https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
+
+#EXTINF:-1 tvg-id="Axnmovies" tvg-name="AXNMOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/AXN_Movies_logo.jpg" group-title="Movies Campuran 2",AXN MOVIES 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
+https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
+
+#EXTINF:-1 tvg-id="amc.gb" tvg-name="AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK193AMCHD.png" group-title="Movies Campuran 2",AMC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
+https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
+
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-name="IT007:COMEDY CENTRAL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT007" group-title="",COMEDY CENTRAL 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8757de5a495ce5db4893c2eefc11e58:d8309cd9fa8c286f277b4cb9841d7bd2
+https://ott.zapitv.com/live/eds_c2/comedy_central/dash_live_enc/comedy_central.mpd
+
+#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES027:CALLE 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES027MMotoGP.png" group-title="Movies Campuran 2",CALLE 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ae50bb56203f2f3875e3ee78efab1a5:f22429107ea7806f54902bb2926c8872
+https://ott.zapitv.com/live/eds_c2/calle_13/dash_live_enc/calle_13.mpd
+
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PT/PT065SYFY.png" group-title="Movies Campuran",SYFY 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
+https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/DE/DE250SKYSELECT8HD.png" group-title="Movies Campuran 2",WARNER TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33947fe5bd6af392efd09f7431e1fa54:02cef33e07cb49b26b0e099ba7467e97
+https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
+
+#EXTINF:0 group-title="Movies Campuran 2" tvg-id="3741" tvg-logo="http://epg.one/img2/3741.png" tvg-rec="3",Film Now HD RO
+http://rhsbjv7k.tvclub.xyz/iptv/U7FVCQRUDEAH3M/6999/index.m3u8
