@@ -10,6 +10,9 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_MY.xml"
 
 ______________________________________________
+#EXTINF:-1 tvg-id="eToonz" group-title="Kids" tvg-logo="https://i.postimg.cc/HngpQzz2/download-2024-02-11-T073348-634.jpg",Etoonz
+http://startv365.com/live/0010308956/4632378065/110605.ts
+
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Kids",MAX Anime (720p)
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 
