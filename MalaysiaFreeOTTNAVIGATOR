@@ -1082,7 +1082,7 @@ https://b92ce5e96c924931a49f2d97401db3a9.mediatailor.us-east-1.amazonaws.com/v1/
 https://narrative-popkids-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-narrative-popkids-rakuten/CDN/master.m3u8?ads_amagi_channel=850&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4880&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=6134a39f-b713-4d7f-b5be-4c49f0de5f63&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 group-title="Kids" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
-http://jp.vthanhnetwork.com/AT-X/index.m3u8
+http://for-testonly.ra1n.lol/at-x/index.m3u8
 
 #EXTINF:-1 tvg-id="KBSKIDS" group-logo ="group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/nrgR2nTv/download-2023-07-01-T161248-552.png"  group-title="Kids", KBS KIDS
 https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
