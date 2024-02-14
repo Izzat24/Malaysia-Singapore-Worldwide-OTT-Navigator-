@@ -283,11 +283,8 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #EXTINF:-1 group-title="🇸🇬Singapore🇸🇬" tvg-id="1002" tvg-chno="1002" tvg-logo="https://i.postimg.cc/0NQWcf6q/download-73.png",CNA
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
-#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="104",104 Digital Ria FHD (Temporary) 
-http://startv365.com:80/live/0010308956/4632378065/79321.ts
-
 #EXTINF:-1 tvg-id="104.astro" tvg-name="RIA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="104",104 Digital Ria FHD (Backup)
-http://50.7.234.10:8278/Ria_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://mykingtv.net:2082/live/azrul968/0147939968/8444.ts
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima 
 http://startv365.com:80/live/0010308956/4632378065/400438338.ts
