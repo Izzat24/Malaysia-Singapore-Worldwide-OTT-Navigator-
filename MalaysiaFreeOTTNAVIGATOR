@@ -1093,14 +1093,8 @@ https://webudit.webhd.ru/lb/premium649/index.m3u8
 #EXTINF:-1 tvg-id="TeeNick" tvg-name="TeeNick" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/G3XMwG6Z/download-88.png",TeeNick
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479234&extension=ts
 
-#EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids (A)
-http://872950441829181541.ofd0126.xyz/live/vi0218392/46Eew6nmh9hP/755816.ts
-
-#EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids (B)
-http://abc123.digital:8080/live/dennis_landry@rogers.com/2DdvZey39t/495251.m3u8
-
-#EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids (C)
-http://vipblicz.xyz:8080/VIP0136168511696304/51685116963/99551
+#EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids 
+http://bestteamtv.dyndns.org:80/MarcMelf/D9h0v1R2bB/390975
 
 #EXTINF:-1 tvg-id="TVPABC" tvg-logo="https://i.postimg.cc/65Nt3WF5/images-8.jpg" group-title="Kids",TVP ABC 
 http://4ksuper.live:80/live/nilsson/nilsson/880239.ts
