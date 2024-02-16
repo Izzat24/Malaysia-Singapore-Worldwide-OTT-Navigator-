@@ -919,8 +919,11 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:07:A4:5E&stream=1118098&e
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network DSTV (B)
 http://abc123.digital:8080/live/dennis_landry@rogers.com/2DdvZey39t/571530.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network DSTV (C)
+http://vipitlea.xyz:8080/live/VIP0112168580223504/31685802235/4671.ts
+
 #EXTINF:-1 tvg-id="TringKids"  tvg-name="TringKids" tvg-logo="https://i.postimg.cc/bNMVWyJF/download-2024-01-22-T003142-850.jpg" tvg-name="TringKids" group-title="Kids",Tring Kids
-http://4ksuper.live:80/live/nilsson/nilsson/116186.ts
+http://vipitlea.xyz:8080/live/VIP0112168580223504/31685802235/2954.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1094,7 +1097,7 @@ https://webudit.webhd.ru/lb/premium649/index.m3u8
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479234&extension=ts
 
 #EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids 
-http://bestteamtv.dyndns.org:80/MarcMelf/D9h0v1R2bB/390975
+http://vipitlea.xyz:8080/live/VIP0112168580223504/31685802235/99551.ts
 
 #EXTINF:-1 tvg-id="TVPABC" tvg-logo="https://i.postimg.cc/65Nt3WF5/images-8.jpg" group-title="Kids",TVP ABC 
 http://4ksuper.live:80/live/nilsson/nilsson/880239.ts
