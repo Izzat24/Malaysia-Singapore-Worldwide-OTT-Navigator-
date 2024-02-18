@@ -10,6 +10,9 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_MY.xml"
 
 ______________________________________________
+#EXTINF:-1 tvg-id="AXAKIDS" tvg-name="AXA KIDS" group-title="Kids"  tvg-logo="https://i.postimg.cc/6pKsK1mK/Screenshot-2024-02-18-141323.jpg",AXA KIDS
+http://server.sibfungold.info:8080/Mooniptv2021/bJDdkRxbGBplTGbzZmiV/53168
+
 #EXTINF:-1 tvg-id="eToonz" group-title="Kids" tvg-logo="https://i.postimg.cc/HngpQzz2/download-2024-02-11-T073348-634.jpg",Etoonz
 http://startv365.com/live/0010308956/4632378065/110605.ts
 
