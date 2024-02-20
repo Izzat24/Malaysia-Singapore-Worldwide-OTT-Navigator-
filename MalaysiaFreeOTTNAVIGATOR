@@ -1102,8 +1102,11 @@ https://webudit.webhd.ru/lb/premium649/index.m3u8
 #EXTINF:-1 tvg-id="TeeNick" tvg-name="TeeNick" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/G3XMwG6Z/download-88.png",TeeNick
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479234&extension=ts
 
-#EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids 
+#EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids (A)
 http://606074135929276135.ofd0219.xyz:80/live/Siurana816D/SiuranaM121/778242.ts
+
+#EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids (B)
+http://iptvtree.net:8080/F31068/8fd17683/290678
 
 #EXTINF:-1 tvg-id="TVPABC" tvg-logo="https://i.postimg.cc/65Nt3WF5/images-8.jpg" group-title="Kids",TVP ABC 
 http://4ksuper.live:80/live/nilsson/nilsson/880239.ts
