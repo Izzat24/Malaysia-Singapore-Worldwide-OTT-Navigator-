@@ -319,8 +319,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Astroxx" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfp8F.png",Astro Warna HD CH107
 https://linears-playback.astro.com.my/vsg/41TcO4a4JPPLLRo_dH0JvBMICqLw0Wh512EONM8nP4b4s=sXS9/dash-wv/jitp-dashisowm/2402/default_ott.mpd 
 
-#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Astroxx",Citra HD 
-https://ktpremium.com:443/live/J7190HT/1887/913177.ts 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aMXbOzCfq1UDpv21gN3ygQ","kid":"x3N+3R1ngk+nDfcxVL+BEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astroxx" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfyyg.png",Astro Citra HD CH108
+https://linears-playback.astro.com.my/vsg/415H4TzJbpXubQKgf4bWNmDM1r5ThNpzdr2geLw3HZQlI=ev27/dash-wv/jitp-dashisowm/2700/default_primary.mpd 
   
 #EXTINF:-1 tvg-id="Rania" group-title="Indonesia Exclusive" ch-number="112" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Rania (A)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
