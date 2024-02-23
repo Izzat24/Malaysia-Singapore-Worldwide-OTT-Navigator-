@@ -311,8 +311,10 @@ http://50.7.234.10:8278/Sensasi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-title="Astroxx", OASIS HD
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
-#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Astroxx",WARNA HD 
-https://ktpremium.com:443/live/J7190HT/1887/912836.ts 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810":"0a80e20c568e88e53c7087c1c6493318
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Astroxx" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfp8F.png",Astro Warna HD CH107
+https://linears-playback.astro.com.my/vsg/41TcO4a4JPPLLRo_dH0JvBMFOv6GFpR5rPXM6OgKkBcSE=p5yR/dash-wv/jitp-dashisowm/2402/default_primary.mpd 
 
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png", group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png", group-title="Astroxx",Citra HD 
 https://ktpremium.com:443/live/J7190HT/1887/913177.ts 
