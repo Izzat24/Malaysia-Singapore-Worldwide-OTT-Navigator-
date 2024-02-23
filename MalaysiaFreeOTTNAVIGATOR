@@ -296,8 +296,10 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Astroxx" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
 https://linears-playback.astro.com.my/vsg/41bF7mE84xvabXWKOWAiJBDXwJbduiEhH-qSH5W-lWsno=zC1i/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"} 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima 
-http://startv365.com:80/live/0010308956/4632378065/400438338.ts
+https://linears-playback.astro.com.my/vsg/41h9VihmqDXcQRss_lmm5zskkFNuO63MgMzpai1efmDYU=JF9-/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima (Backup)
 http://50.7.234.10:8278/Prima1_xue/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
