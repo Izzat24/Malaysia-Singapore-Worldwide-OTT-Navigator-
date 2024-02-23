@@ -6093,3 +6093,8 @@ https://af.ayas.ir/hls2/tv3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
 https://p7s1-live-009-prod.akamaized.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="Danz PGA Tour" tvg-name="Danz PGA Tour" tvg-logo="https://i.imgur.com/EyZCn6S.png" group-title="Sports Campuran 2",Danz PGA Tour
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
