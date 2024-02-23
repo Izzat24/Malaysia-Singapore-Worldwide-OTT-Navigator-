@@ -301,9 +301,6 @@ https://linears-playback.astro.com.my/vsg/41bF7mE84xvabXWKOWAiJBDXwJbduiEhH-qSH5
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima 
 https://linears-playback.astro.com.my/vsg/41h9VihmqDXcQRss_lmm5zskkFNuO63MgMzpai1efmDYU=JF9-/dash-wv/jitp-dashisowm/1000/default_primary.mpd
 
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima (Backup)
-http://50.7.234.10:8278/Prima1_xue/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/br0nzF9q/download-2024-02-06-T073900-295.jpg" group-title="Astroxx",Astro Sensasi
 http://50.7.234.10:8278/Sensasi/playlist.m3u8
 
