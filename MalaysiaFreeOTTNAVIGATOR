@@ -294,7 +294,7 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty": "oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Astroxx" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
-https://linears-playback.astro.com.my/vsg/41bF7mE84xvabXWKOWAiJBDUb0EZC5GKd9nPZJfSLzqNc=h7UM/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41bF7mE84xvabXWKOWAiJBDbT7ggdd2FURxKtPTl8R8s8=WB25/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"} 
