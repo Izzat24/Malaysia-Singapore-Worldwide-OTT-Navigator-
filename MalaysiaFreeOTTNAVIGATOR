@@ -6107,3 +6107,27 @@ https://p7s1-live-009-prod.akamaized.net/c5c609cf/t_009/sport1plus-de-hd/cenc-de
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
+
+#EXTINF:-1 type="Avatar:The Last Airbender" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg" group-title="Netflix",Avatar The Last Airbender 2024 Ep1
+https://uokbs3ftcvlt.enaak-cdn.com/hls2/01/01289/h8n0741xfgiy_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=82uEtIWupyWi766smtZy377jnFAprLnL3pF8hDywisQ&s=1708765392&e=129600&f=6449491&srv=vnwghq8ngsmw&i=0.4&sp=1500&p1=vnwghq8ngsmw&p2=vnwghq8ngsmw&asn=4788
+
+#EXTINF:-1 type="Avatar:The Last Airbender" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg" group-title="Netflix",Avatar The Last Airbender 2024 Ep2
+https://r2ow0e4s3p7x.enaak-cdn.com/hls2/01/01287/8vfcr0asgydy_n/master.m3u8?t=C7z05ytfL9KTlslnYZgDh8M8gXs0pNeVXczI8kLvoPs&s=1708762844&e=129600&f=6435454&srv=zay1toiolchi&i=0.4&sp=1500&p1=zay1toiolchi&p2=zay1toiolchi&asn=4788
+
+#EXTINF:-1 type="Avatar:The Last Airbender" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg" group-title="Netflix",Avatar The Last Airbender 2024 Ep3
+https://pjg3itk8bndw.enaak-cdn.com/hls2/01/01287/5pdveenrcc0v_n/master.m3u8?t=Lg8TJGAE-u3hp_o4LCwoGvqcPiS_j5kED7M234ie-J8&s=1708762880&e=129600&f=6435461&srv=ftbzjxaby6ck&i=0.4&sp=1500&p1=ftbzjxaby6ck&p2=ftbzjxaby6ck&asn=4788
+
+#EXTINF:-1 type="Avatar:The Last Airbender" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg" group-title="Netflix",Avatar The Last Airbender 2024 Ep4
+https://lo7tgtchmght.enaak-cdn.com/hls2/01/01287/o61y42a5ia9j_n/master.m3u8?t=6jhKLaG26fSs_iM_twaNZfZDRDq0gnvZASX1ZODcUEg&s=1708762911&e=129600&f=6435631&srv=wewivdeocm9h&i=0.4&sp=1500&p1=wewivdeocm9h&p2=wewivdeocm9h&asn=4788
+
+#EXTINF:-1 type="Avatar:The Last Airbender" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg" group-title="Netflix",Avatar The Last Airbender 2024 Ep5
+https://wss3nad7ls5u.enaak-cdn.com/hls2/01/01287/2aho8jpap45s_n/master.m3u8?t=r9Z2jwRgYPo7CqquY0qXcxcwpEihBxvV2zsoBRTU0ts&s=1708762945&e=129600&f=6435630&srv=ftbzjxaby6ck&i=0.4&sp=1500&p1=ftbzjxaby6ck&p2=ftbzjxaby6ck&asn=4788
+
+#EXTINF:-1 type="Avatar:The Last Airbender" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg" group-title="Netflix",Avatar The Last Airbender 2024 Ep6
+https://dazdq30qqoez.enaak-cdn.com/hls2/01/01287/v6yf4disg7mx_n/master.m3u8?t=bMoH72p5dNU4OXbQugmIXC7TF0_TQu6tFe_19G4Pshw&s=1708762975&e=129600&f=6435795&srv=ioroyuj5oreg&i=0.4&sp=1500&p1=ioroyuj5oreg&p2=ioroyuj5oreg&asn=4788
+
+#EXTINF:-1 type="Avatar:The Last Airbender" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg" group-title="Netflix",Avatar The Last Airbender 2024 Ep7
+https://msfpjkvh04ns.enaak-cdn.com/hls2/01/01287/zydjd4e3fmpi_n/master.m3u8?t=qOHylKFA9RdNH1Da9frhHFegB3TBd2c8nFwXdFOoYYI&s=1708763002&e=129600&f=6435712&srv=atE1VcI12JeF&i=0.4&sp=1500&p1=atE1VcI12JeF&p2=atE1VcI12JeF&asn=4788
+
+#EXTINF:-1 type="Avatar:The Last Airbender" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg" group-logo="https://g.co/kgs/3R5HgA8" group-title="Netflix",Avatar The Last Airbender 2024 Ep8
+https://u5ggf9cbmfby.enaak-cdn.com/hls2/01/01287/dpsekzs53o3a_n/master.m3u8?t=20MOrJTMGw0udrQ2Wy0L97wot3ETWb3t3JJq8gAAWYI&s=1708763027&e=129600&f=6435907&srv=atE1VcI12JeF&i=0.4&sp=1500&p1=atE1VcI12JeF&p2=atE1VcI12JeF&asn=4788
