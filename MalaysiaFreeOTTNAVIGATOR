@@ -10,6 +10,12 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_MY.xml"
 
 ______________________________________________
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="oxygen", KTV
+https://gachor99.my.id/play.m3u8?id=ktv
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" group-title="Kids", KIDS ZONE PLUS
+https://gachor99.my.id/play.m3u8?id=kidszoneplus
+
 #EXTINF:-1 tvg-id="TrueSparkJump" group-title="Kids" tvg-logo="https://i.postimg.cc/CLDTfSFJ/download-2024-02-20-T003016-223.png", True Spark Jump TH
 http://clientsportals.info:2095/play/live.php?mac=00:1A:79:B4:3C:2A&stream=115529&extension=ts&play_token=J7cWTOYGFF
 
@@ -1383,10 +1389,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0F6zwQ9/download-2024-02-07-T195427-627.jpg" group-title="🇮🇩Indonesia🇮🇩",SCTV
-http://startv365.com:80/D85A79B4/55A7743D/45099
+https://gachor99.my.id/play.m3u8?id=sctv
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="🇮🇩Indonesia🇮🇩",Indosiar
-http://50.7.234.10:8278/Indosiar/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+https://gachor99.my.id/play.m3u8?id=indosiar
 
 #EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
@@ -1473,7 +1479,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|Referer=ht
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.postimg.cc/tCSB1v0R/download-98.jpg" group-logo="https://i.postimg.cc/65f9dq31/download-2023-06-30-T115615-283.jpg" group-title="🇮🇩Indonesia🇮🇩",VTV Indonesia 
-https://playlist-coffee.my.id/oxy/vtv.m3u8
+https://gachor99.my.id/play.m3u8?id=vtv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
