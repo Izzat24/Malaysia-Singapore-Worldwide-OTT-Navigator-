@@ -76,24 +76,24 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
 #EXTINF:-1 tvg-id="410.astro" tvg-name="ASTRO PREMIER" group-title="Astroxx" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier CH410
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="🇲🇾Myfreeview🇲🇾",TV1 (Myfreeview Feed)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpCNLq1W/IMG-20240225-204433-430-picsay-1.jpg" group-title="🇲🇾Myfreeview🇲🇾",TV1 (Myfreeview Feed)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="🇲🇾Myfreeview🇲🇾" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NKFDv.png",TV1 (Astrok Feed)
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="🇲🇾Myfreeview🇲🇾" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://i.postimg.cc/GpCNLq1W/IMG-20240225-204433-430-picsay-1.jpg",TV1 (Astrok Feed)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="🇲🇾Myfreeview🇲🇾",TV2 (Myfreeview Feed)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2NRQzgW/IMG-20240225-224221-479-picsay.jpg" group-title="🇲🇾Myfreeview🇲🇾",TV2 (Myfreeview Feed)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="🇲🇾Myfreeview🇲🇾" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NKqVp.png",TV2 (Astrok Feed)
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="🇲🇾Myfreeview🇲🇾" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://i.postimg.cc/m2NRQzgW/IMG-20240225-224221-479-picsay.jpg",TV2 (Astrok Feed)
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
 #EXTINF:-1 group-title="🇲🇾Myfreeview🇲🇾" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3 (Tonton Feed)
